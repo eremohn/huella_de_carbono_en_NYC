@@ -1,5 +1,5 @@
 <p align="center">
-<img src=""  >
+<img src="Imagenes_1/vector_new_york_1.png" width="840" height="614""  >
 </p>
 
 ## Puesta en marcha del proyecto
