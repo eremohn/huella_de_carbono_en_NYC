@@ -1,0 +1,706 @@
+id_indicador,nombre,medicion,valor_medida,nombre_del_barrio,unidad_de_medida,periodo_de_tiempo,inicio_medicion
+375,Nitrogen dioxide (NO2),Mean,18.5,Chelsea-Village,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,11.0,Flushing - Clearview,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,15.6,East New York,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,14.8,Bayside - Little Neck,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+386,Ozone (O3),Mean,33.7,Sunset Park,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,9.8,Southeast Queens,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,18.9,Union Square-Lower Manhattan,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,15.3,Fordham - Bronx Pk,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,16.7,East Harlem,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,11.9,Willowbrook,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,14.7,Hillcrest and Fresh Meadows (CD8),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,20.7,Upper East Side-Gramercy,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,15.3,Fordham - Bronx Pk,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,22.1,Chelsea-Village,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,15.2,Flushing - Clearview,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.2,Central Harlem - Morningside Heights,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,17.3,Sunset Park,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,14.1,Southeast Queens,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,10.5,Jamaica,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,14.9,Jamaica,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,15.9,Ridgewood and Maspeth (CD5),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,9.7,Southwest Queens,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,34.9,East Flatbush - Flatbush,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,10.2,East Flatbush - Flatbush,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,14.3,Southwest Queens,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,15.0,East Flatbush - Flatbush,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,6.8,Tottenville and Great Kills (CD3),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,8.5,Flatlands and Canarsie (CD18),ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.3,Bushwick (CD4),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.0,Tottenville and Great Kills (CD3),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.2,West Queens,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.0,Northeast Bronx,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.2,Hunts Point - Mott Haven,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.8,Brooklyn,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.4,Canarsie - Flatlands,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,15.3,East Flatbush (CD17),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,16.9,Morrisania and Crotona (CD3),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.6,Jamaica,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,17.3,Highbridge and Concourse (CD4),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,15.0,East Flatbush - Flatbush,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.3,Flatlands and Canarsie (CD18),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,18.4,Greenpoint,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,16.9,Central Harlem - Morningside Heights,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,16.9,West Queens,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,15.4,Northeast Bronx,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.9,Downtown - Heights - Slope,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.2,Washington Heights,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,17.4,Hunts Point - Mott Haven,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,22.9,Gramercy Park - Murray Hill,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.4,Downtown - Heights - Slope,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,11.6,Northeast Bronx,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,13.4,Canarsie - Flatlands,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,14.3,Southwest Queens,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,9.3,Tottenville and Great Kills (CD3),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,13.3,Flatlands and Canarsie (CD18),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+386,Ozone (O3),Mean,32.3,Downtown - Heights - Slope,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,13.4,Downtown - Heights - Slope,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,10.6,Ridgewood - Forest Hills,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,18.0,Downtown - Heights - Slope,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,16.9,Washington Heights,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.0,Kingsbridge - Riverdale,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,18.9,Upper East Side (CD8),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,16.8,Central Harlem (CD10),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.5,Greenpoint and Williamsburg (CD1),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.4,Fort Greene and Brooklyn Heights (CD2),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.4,St. George and Stapleton (CD1),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.1,Lower Manhattan,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,14.1,Southeast Queens,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,18.0,Union Square - Lower East Side,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.3,Stapleton - St. George,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.8,New York City,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.3,Washington Heights,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,14.4,Bensonhurst - Bay Ridge,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.9,Gramercy Park - Murray Hill,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.9,Bedford Stuyvesant - Crown Heights,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,15.3,Rego Park and Forest Hills (CD6),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.2,Willowbrook,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,16.6,Belmont and East Tremont (CD6),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,13.0,East Harlem,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,8.3,Willowbrook,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,6.9,South Beach - Tottenville,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,10.7,Bayside - Little Neck,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,14.3,Queens Village (CD13),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,8.2,Chelsea-Village,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.6,Flushing - Clearview,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,19.1,Manhattan,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.5,Union Square-Lower Manhattan,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,14.5,Kingsbridge - Riverdale,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,10.4,Southern SI,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,17.2,Crotona -Tremont,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,15.2,Flushing - Clearview,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.1,East Harlem,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,17.3,Sunset Park,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.7,Sunset Park,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,17.4,Williamsburg - Bushwick,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.5,Southwest Queens,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,16.4,Elmhurst and Corona (CD4),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+386,Ozone (O3),Mean,31.8,Morrisania and Crotona (CD3),ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,34.9,East Flatbush (CD17),ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,36.0,Tottenville and Great Kills (CD3),ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,36.2,Flatlands and Canarsie (CD18),ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.0,Jackson Heights (CD3),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.1,Elmhurst and Corona (CD4),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.1,Upper East Side-Gramercy,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,8.3,Chelsea-Village,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.9,Flushing - Clearview,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.3,Union Square-Lower Manhattan,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,18.0,Downtown - Heights - Slope,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.8,Brownsville (CD16),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.2,East Flatbush - Flatbush,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,22.9,Chelsea - Clinton,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.5,Southwest Queens,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.6,East Flatbush - Flatbush,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.4,Sheepshead Bay (CD15),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,14.9,Queens,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.3,Jamaica,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.2,Long Island City - Astoria,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,10.9,East New York,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,20.8,Lower Manhattan,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,18.5,Fort Greene and Brooklyn Heights (CD2),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,18.4,Woodside and Sunnyside (CD2),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+386,Ozone (O3),Mean,33.3,Pelham - Throgs Neck,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,34.4,East New York,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,29.9,Upper East Side-Gramercy,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,29.3,Chelsea-Village,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,34.5,Flushing - Clearview,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,17.3,Upper East Side-Gramercy,ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.8,Coney Island - Sheepshead Bay,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.5,Bensonhurst (CD11),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,13.1,Stapleton - St. George,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.4,Southeast Queens,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,9.5,South Beach - Tottenville,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,12.7,Williamsburg - Bushwick,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,14.7,New York City,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,16.9,Washington Heights,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+386,Ozone (O3),Mean,30.9,Union Square-Lower Manhattan,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,14.8,Union Square-Lower Manhattan,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,13.1,Sheepshead Bay (CD15),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+386,Ozone (O3),Mean,32.9,Long Island City - Astoria,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,34.4,Jamaica,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,14.1,Bensonhurst (CD11),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+386,Ozone (O3),Mean,37.5,Rockaways,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,15.2,Ridgewood - Forest Hills,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.7,East Flatbush (CD17),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.8,Jackson Heights (CD3),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.9,Flatlands and Canarsie (CD18),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.3,Washington Heights,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.8,Ridgewood - Forest Hills,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.5,Greenpoint,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,13.4,Canarsie - Flatlands,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,17.3,South Bronx,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.8,Sheepshead Bay (CD15),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,9.3,St. George and Stapleton (CD1),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,14.2,Woodside and Sunnyside (CD2),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,10.6,New York City,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,34.1,New York City,ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.4,New York City,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.6,Jamaica and Hollis (CD12),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.7,Borough Park (CD12),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.5,Woodside and Sunnyside (CD2),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,8.4,Greenwich Village and Soho (CD2),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.1,Mott Haven and Melrose (CD1),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.2,South Beach and Willowbrook (CD2),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.7,East New York,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.1,Morris Park and Bronxdale (CD11),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,11.1,Flushing and Whitestone (CD7),ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.0,Riverdale and Fieldston (CD8),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.5,Hillcrest and Fresh Meadows (CD8),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.8,Clinton and Chelsea (CD4),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,16.6,Bedford Stuyvesant (CD3),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.2,South Bronx,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,13.2,Long Island City - Astoria,ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.1,High Bridge - Morrisania,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.0,Rockaways,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.0,Manhattan,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.5,Union Square - Lower East Side,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.7,Borough Park,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.9,Ridgewood and Maspeth (CD5),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.6,Bayside - Little Neck,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.0,South Beach - Tottenville,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.2,Crotona -Tremont,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.2,Sunset Park,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,16.1,Long Island City and Astoria (CD1),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,18.5,Greenpoint and Williamsburg (CD1),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,13.5,St. George and Stapleton (CD1),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,17.8,Mott Haven and Melrose (CD1),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,9.8,Bensonhurst - Bay Ridge,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,25.5,Midtown (CD5),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,15.5,Jackson Heights (CD3),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,14.5,Riverdale and Fieldston (CD8),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,13.7,South Ozone Park and Howard Beach (CD10),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,15.2,Borough Park (CD12),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.1,Pelham - Throgs Neck,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,21.0,Financial District (CD1),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+386,Ozone (O3),Mean,34.2,St. George and Stapleton (CD1),ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,30.3,Financial District (CD1),ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,32.5,Greenpoint and Williamsburg (CD1),ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,35.2,South Beach and Willowbrook (CD2),ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,32.8,Woodside and Sunnyside (CD2),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,14.0,Mott Haven and Melrose (CD1),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,8.0,South Beach and Willowbrook (CD2),ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.2,Long Island City and Astoria (CD1),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.4,Long Island City - Astoria,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,15.2,Bay Ridge and Dyker Heights (CD10),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+386,Ozone (O3),Mean,34.6,Jamaica and Hollis (CD12),ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,35.1,Borough Park (CD12),ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,31.2,Central Harlem (CD10),ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,29.6,Washington Heights and Inwood (CD12),ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,34.8,Bay Ridge and Dyker Heights (CD10),ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,30.7,Upper East Side (CD8),ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,35.5,South Ozone Park and Howard Beach (CD10),ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.4,Upper East Side (CD8),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.2,Central Harlem (CD10),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.7,Bay Ridge and Dyker Heights (CD10),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+386,Ozone (O3),Mean,34.4,South Crown Heights and Lefferts Gardens (CD9),ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.9,Flushing - Clearview,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.4,Upper East Side,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+386,Ozone (O3),Mean,33.9,Rego Park and Forest Hills (CD6),ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.2,Financial District (CD1),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,11.5,Morris Park and Bronxdale (CD11),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,13.0,East Harlem (CD11),ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,33.9,Hillcrest and Fresh Meadows (CD8),ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,31.9,Belmont and East Tremont (CD6),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,10.5,Hillcrest and Fresh Meadows (CD8),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,17.8,Clinton and Chelsea (CD4),ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.1,Crown Heights and Prospect Heights (CD8),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.2,Southwest Queens,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,34.7,Queens Village (CD13),ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,36.8,Sheepshead Bay (CD15),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,15.8,Pelham - Throgs Neck,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,18.2,Upper West Side,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.9,South Beach and Willowbrook (CD2),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.1,St. George and Stapleton (CD1),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,8.4,Chelsea - Clinton,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+386,Ozone (O3),Mean,34.6,East New York and Starrett City (CD5),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,14.8,Bayside Little Neck-Fresh Meadows,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+386,Ozone (O3),Mean,34.0,Ridgewood and Maspeth (CD5),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,10.7,East New York and Starrett City (CD5),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,11.2,Ridgewood and Maspeth (CD5),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,22.5,Midtown (CD5),ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.6,Flatbush and Midwood (CD14),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.7,Flushing and Whitestone (CD7),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.6,Bayside Little Neck-Fresh Meadows,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,13.4,Hunts Point - Mott Haven,ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.6,Bensonhurst - Bay Ridge,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.1,Pelham - Throgs Neck,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.1,Upper West Side,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,8.0,Clinton and Chelsea (CD4),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.1,Southern SI,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,13.2,Northern SI,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,17.1,Fordham and University Heights (CD5),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,11.8,South Beach and Willowbrook (CD2),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,15.2,Flushing and Whitestone (CD7),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,15.4,South Crown Heights and Lefferts Gardens (CD9),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+386,Ozone (O3),Mean,34.4,Jamaica,ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.2,Washington Heights,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,10.6,Kingsbridge - Riverdale,ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.9,Willowbrook,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,12.7,Williamsburg - Bushwick,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,7.0,Rockaways,ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.5,Rockaways,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,17.8,Lower East Side and Chinatown (CD3),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,15.4,Manhattan,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,13.9,Union Square - Lower East Side,ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.9,Stapleton - St. George,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,8.7,Stapleton - St. George,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,14.7,Upper West Side,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,32.9,Hunts Point - Mott Haven,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,30.3,Greenwich Village - SoHo,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,16.0,Bronx,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.3,Morrisania and Crotona (CD3),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.2,Lower East Side and Chinatown (CD3),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.1,Bedford Stuyvesant (CD3),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+386,Ozone (O3),Mean,37.5,Rockaways,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,31.5,High Bridge - Morrisania,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,31.6,East Harlem,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,34.2,Ridgewood - Forest Hills,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,34.8,Stapleton - St. George,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,33.4,Bayside - Little Neck,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,34.8,Willowbrook,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,15.8,Kingsbridge Heights and Bedford (CD7),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.1,Central Harlem - Morningside Heights,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.9,West Queens,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.1,Northeast Bronx,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.5,Ridgewood - Forest Hills,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.1,Bronx,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+386,Ozone (O3),Mean,30.0,Kingsbridge - Riverdale,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,13.2,Central Harlem - Morningside Heights,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,12.8,West Queens,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,34.2,Ridgewood - Forest Hills,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,30.9,Central Harlem - Morningside Heights,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,29.9,Washington Heights,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,33.6,West Queens,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,32.2,Northeast Bronx,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,33.2,Williamsburg - Bushwick,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,9.8,Bensonhurst - Bay Ridge,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,34.6,Northern SI,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,35.8,Bensonhurst - Bay Ridge,ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.5,Port Richmond,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.2,Staten Island,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+386,Ozone (O3),Mean,33.7,Bayside Little Neck-Fresh Meadows,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,34.7,Southeast Queens,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,36.0,South Beach - Tottenville,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,31.4,Lower East Side and Chinatown (CD3),ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,33.2,Bedford Stuyvesant (CD3),ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,34.2,Jackson Heights (CD3),ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,34.1,Elmhurst and Corona (CD4),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,12.2,Elmhurst and Corona (CD4),ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,30.3,Lower Manhattan,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,30.2,Manhattan,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,7.4,Southern SI,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,35.6,Southern SI,ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.1,Fordham - Bronx Pk,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+386,Ozone (O3),Mean,33.7,Bedford Stuyvesant - Crown Heights,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,37.1,Coney Island - Sheepshead Bay,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,10.5,East Flatbush (CD17),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,16.6,Greenwich Village - SoHo,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,9.7,Southwest Queens,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,10.7,Brooklyn,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,8.6,Canarsie - Flatlands,ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.2,Central Harlem - Morningside Heights,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+386,Ozone (O3),Mean,35.2,Southwest Queens,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,17.2,High Bridge - Morrisania,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,13.5,Port Richmond,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.9,Flushing and Whitestone (CD7),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,14.8,Fresh Meadows,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,16.9,Central Harlem - Morningside Heights,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.1,Fordham and University Heights (CD5),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.3,Washington Heights and Inwood (CD12),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+386,Ozone (O3),Mean,36.1,Canarsie - Flatlands,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,34.5,Queens,ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.7,Queens,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+386,Ozone (O3),Mean,35.2,Borough Park,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,32.1,South Bronx,ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.2,Morningside Heights and Hamilton Heights (CD9),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.6,Bayside and Little Neck (CD11),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.6,Tottenville and Great Kills (CD3),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,8.0,Gramercy Park - Murray Hill,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,8.0,Greenwich Village - SoHo,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.3,Jamaica,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.7,Southern SI,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.0,Upper West Side,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.4,East New York,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.5,Upper East Side-Gramercy,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.2,Southwest Queens,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.3,Bayside Little Neck-Fresh Meadows,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,31.6,East Harlem,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,37.1,Coney Island - Sheepshead Bay,ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.2,South Bronx,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.0,Bensonhurst - Bay Ridge,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,28.8,Chelsea - Clinton,ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.0,Northeast Bronx,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+386,Ozone (O3),Mean,29.9,Upper West Side,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,33.7,Bedford Stuyvesant - Crown Heights,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,31.7,Fordham - Bronx Pk,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,12.0,Pelham - Throgs Neck,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,14.7,Upper West Side,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,16.9,Financial District (CD1),ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,31.5,Kingsbridge Heights and Bedford (CD7),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,8.2,Coney Island (CD13),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,10.0,Queens Village (CD13),ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,31.9,Mott Haven and Melrose (CD1),ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,32.8,Hunts Point and Longwood (CD2),ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,33.6,Long Island City and Astoria (CD1),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,12.0,Long Island City and Astoria (CD1),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,14.1,Greenpoint and Williamsburg (CD1),ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,30.2,Riverdale and Fieldston (CD8),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,13.0,Belmont and East Tremont (CD6),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,10.3,Jamaica and Hollis (CD12),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,11.7,Throgs Neck and Co-op City (CD10),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,16.7,Lower Manhattan,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,34.4,Flushing and Whitestone (CD7),ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,33.5,Sunset Park (CD7),ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,31.2,Fordham and University Heights (CD5),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,11.4,Bedford Stuyvesant - Crown Heights,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,11.0,Flushing - Clearview,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,13.6,Crotona -Tremont,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,11.5,Fordham - Bronx Pk,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,32.9,Parkchester and Soundview (CD9),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,10.6,Kingsbridge - Riverdale,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,32.4,Greenpoint,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,8.6,Canarsie - Flatlands,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,13.5,South Bronx,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,14.5,Kingsbridge - Riverdale,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.1,Fordham - Bronx Pk,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,10.7,Bayside Little Neck-Fresh Meadows,ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.3,Hillcrest and Fresh Meadows (CD8),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.2,Belmont and East Tremont (CD6),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.0,Kingsbridge - Riverdale,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.9,Canarsie - Flatlands,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.2,Hunts Point - Mott Haven,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.2,Woodside and Sunnyside (CD2),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.2,Greenpoint and Williamsburg (CD1),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.2,Mott Haven and Melrose (CD1),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.5,Manhattan,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.6,Union Square - Lower East Side,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.4,East New York,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.6,South Beach - Tottenville,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,13.5,Washington Heights,ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.7,Ridgewood and Maspeth (CD5),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,8.3,Chelsea - Clinton,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.1,Queens Village (CD13),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.1,Morris Park and Bronxdale (CD11),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.1,East Harlem (CD11),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,14.1,Greenpoint,ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.2,Greenpoint,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.1,Kingsbridge - Riverdale,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.3,Brooklyn,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,33.7,Bushwick (CD4),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,11.4,Bedford Stuyvesant - Crown Heights,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,13.0,East Harlem,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,11.5,Fordham - Bronx Pk,ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.5,Bedford Stuyvesant - Crown Heights,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.0,East Harlem,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.1,Fordham - Bronx Pk,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.0,Pelham - Throgs Neck,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.1,Kingsbridge - Riverdale,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,15.0,Borough Park,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.4,Canarsie - Flatlands,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+386,Ozone (O3),Mean,30.6,Morningside Heights and Hamilton Heights (CD9),ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,36.5,Bensonhurst (CD11),ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,33.7,Bayside and Little Neck (CD11),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,10.6,South Crown Heights and Lefferts Gardens (CD9),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,8.5,Coney Island - Sheepshead Bay,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,7.0,Rockaways,ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.5,Rockaways,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,10.2,East Flatbush - Flatbush,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,19.6,Gramercy Park - Murray Hill,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,34.9,East Flatbush - Flatbush,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,12.5,Sunset Park,ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.1,Southeast Queens,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,36.1,Canarsie - Flatlands,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,28.9,Gramercy Park - Murray Hill,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,32.2,Bronx,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,35.2,Southwest Queens,ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.4,Lower East Side and Chinatown (CD3),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.7,Bedford Stuyvesant (CD3),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.8,Elmhurst and Corona (CD4),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.2,Morrisania and Crotona (CD3),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.2,East Flatbush (CD17),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.0,Williamsburg - Bushwick,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.0,Northern SI,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.8,Coney Island - Sheepshead Bay,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,8.9,Northern SI,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,31.3,Highbridge and Concourse (CD4),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,13.6,Lower East Side and Chinatown (CD3),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,11.9,Bedford Stuyvesant (CD3),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,13.1,Morrisania and Crotona (CD3),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,13.2,Long Island City - Astoria,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,10.1,Borough Park,ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.2,Borough Park,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.9,Canarsie - Flatlands,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.1,Fordham - Bronx Pk,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.9,Bedford Stuyvesant - Crown Heights,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+386,Ozone (O3),Mean,27.7,Midtown (CD5),ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,34.2,Brownsville (CD16),ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,31.6,Fort Greene and Brooklyn Heights (CD2),ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,30.2,Greenwich Village and Soho (CD2),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,14.2,Hunts Point and Longwood (CD2),ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,33.6,Throgs Neck and Co-op City (CD10),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,15.3,Upper East Side (CD8),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,10.6,Bay Ridge and Dyker Heights (CD10),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,10.3,Borough Park (CD12),ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.1,Flatbush and Midwood (CD14),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,37.6,Rockaway and Broad Channel (CD14),ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,34.9,Flatbush and Midwood (CD14),ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.3,South Crown Heights and Lefferts Gardens (CD9),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.8,Coney Island (CD13),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.4,Long Island City - Astoria,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.7,Borough Park,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+386,Ozone (O3),Mean,37.7,Coney Island (CD13),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,8.5,Sheepshead Bay (CD15),ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,33.4,Crown Heights and Prospect Heights (CD8),ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,29.5,Clinton and Chelsea (CD4),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,10.6,Riverdale and Fieldston (CD8),ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.4,Northern SI,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,13.7,Fordham and University Heights (CD5),ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.3,Fresh Meadows,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.1,High Bridge - Morrisania,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.2,Sunset Park,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.4,Bayside - Little Neck,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.8,Staten Island,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.6,Flushing - Clearview,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.2,Crotona -Tremont,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,34.7,Brooklyn,ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.1,Highbridge and Concourse (CD4),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.2,East Flatbush - Flatbush,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.1,Bronx,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,29.9,Washington Heights,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,32.4,Greenpoint,ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.0,South Ozone Park and Howard Beach (CD10),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,29.9,Upper West Side,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,30.8,Upper East Side,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,31.4,Crotona -Tremont,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,31.7,Fordham - Bronx Pk,ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.4,Rego Park and Forest Hills (CD6),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.6,Crown Heights and Prospect Heights (CD8),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.1,Riverdale and Fieldston (CD8),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,34.7,Southeast Queens,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,35.2,Borough Park,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,31.2,Union Square - Lower East Side,ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.0,Fort Greene and Brooklyn Heights (CD2),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,8.3,Greenwich Village and Soho (CD2),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.9,Throgs Neck and Co-op City (CD10),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.1,Williamsbridge and Baychester (CD12),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.2,Greenpoint,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.2,Long Island City - Astoria,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.0,Highbridge and Concourse (CD4),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.4,Queens,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,17.4,Long Island City - Astoria,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+386,Ozone (O3),Mean,35.8,Bensonhurst - Bay Ridge,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,12.8,West Queens,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,33.6,West Queens,ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.0,Bensonhurst (CD11),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.1,Morningside Heights and Hamilton Heights (CD9),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.4,Bayside and Little Neck (CD11),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.1,Fordham and University Heights (CD5),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.4,Brownsville (CD16),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,11.4,Williamsbridge and Baychester (CD12),ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,31.8,Williamsbridge and Baychester (CD12),ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,34.4,East New York,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,33.2,Williamsburg - Bushwick,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,35.3,Staten Island,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,33.3,Pelham - Throgs Neck,ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.5,Rockaway and Broad Channel (CD14),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.0,Upper West Side (CD7),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.2,Kingsbridge Heights and Bedford (CD7),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.7,Sunset Park (CD7),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.0,Pelham - Throgs Neck,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,11.2,Brownsville (CD16),ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,34.2,Fresh Meadows,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,32.3,Downtown - Heights - Slope,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,30.9,Central Harlem - Morningside Heights,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,32.2,Northeast Bronx,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,10.7,Bayside and Little Neck (CD11),ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,32.8,Morris Park and Bronxdale (CD11),ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,34.5,Kew Gardens and Woodhaven (CD9),ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,31.5,East Harlem (CD11),ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,30.0,Kingsbridge - Riverdale,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,34.2,Port Richmond,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,32.9,Long Island City - Astoria,ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.0,East Harlem,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.7,Sunset Park,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.5,Ridgewood - Forest Hills,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,32.9,Park Slope and Carroll Gardens (CD6),ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,29.7,Stuyvesant Town and Turtle Bay (CD6),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,12.5,Sunset Park,ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,33.7,Sunset Park,ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.0,Long Island City and Astoria (CD1),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.4,Financial District (CD1),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,34.5,Flushing - Clearview,ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,8.0,Greenwich Village - SoHo,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.6,East Flatbush - Flatbush,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.1,Upper East Side (CD8),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.1,Central Harlem (CD10),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.2,Washington Heights and Inwood (CD12),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.2,Bay Ridge and Dyker Heights (CD10),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.2,Borough Park (CD12),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,9.8,Flatbush and Midwood (CD14),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,12.6,Sunset Park (CD7),ppb,Summer 2022,2022-06-01T00:00:00.000
+386,Ozone (O3),Mean,29.9,Upper West Side (CD7),ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.0,Williamsbridge and Baychester (CD12),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,16.2,Bedford Stuyvesant - Crown Heights,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,16.7,East Harlem,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.0,Throgs Neck and Co-op City (CD10),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.4,Williamsburg - Bushwick,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,16.9,Washington Heights and Inwood (CD12),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,15.5,Throgs Neck and Co-op City (CD10),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,15.2,Williamsbridge and Baychester (CD12),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.8,Bushwick (CD4),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,13.7,Highbridge and Concourse (CD4),ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.4,Downtown - Heights - Slope,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,15.9,Brownsville (CD16),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,17.4,Williamsburg - Bushwick,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,13.6,High Bridge - Morrisania,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,15.2,Upper East Side,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,9.4,Port Richmond,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,17.4,Long Island City - Astoria,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,13.2,Central Harlem - Morningside Heights,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,15.4,Northeast Bronx,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,7.8,Staten Island,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,12.0,Pelham - Throgs Neck,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,11.2,Staten Island,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.4,Lower Manhattan,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.2,Port Richmond,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.5,Bedford Stuyvesant - Crown Heights,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,14.8,Bayside and Little Neck (CD11),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.1,Central Harlem - Morningside Heights,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,13.1,Coney Island - Sheepshead Bay,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,11.4,Rockaways,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.3,Jamaica and Hollis (CD12),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,6.9,Rockaway and Broad Channel (CD14),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,14.7,Upper West Side (CD7),ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.2,Sunset Park (CD7),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.0,Rockaway and Broad Channel (CD14),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,11.8,Crown Heights and Prospect Heights (CD8),ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.4,Park Slope and Carroll Gardens (CD6),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.7,Rego Park and Forest Hills (CD6),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,21.1,Stuyvesant Town and Turtle Bay (CD6),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,16.6,Crown Heights and Prospect Heights (CD8),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,11.4,Rockaway and Broad Channel (CD14),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,18.2,Upper West Side (CD7),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.1,Upper West Side (CD7),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.0,Upper West Side,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.4,Coney Island - Sheepshead Bay,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.0,Rockaways,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.7,East New York,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,17.4,Sunset Park (CD7),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,14.7,Flatbush and Midwood (CD14),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,9.2,South Ozone Park and Howard Beach (CD10),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,13.1,Central Harlem (CD10),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,13.6,Washington Heights and Inwood (CD12),ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.4,South Ozone Park and Howard Beach (CD10),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.3,Belmont and East Tremont (CD6),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.5,Stuyvesant Town and Turtle Bay (CD6),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.8,Ridgewood - Forest Hills,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.1,East Harlem,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.9,West Queens,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.4,Kew Gardens and Woodhaven (CD9),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,13.3,Morningside Heights and Hamilton Heights (CD9),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,9.4,Bensonhurst (CD11),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,18.2,Upper West Side,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.8,Kew Gardens and Woodhaven (CD9),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.1,Parkchester and Soundview (CD9),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.2,East Harlem (CD11),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.7,South Crown Heights and Lefferts Gardens (CD9),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,16.7,East Harlem (CD11),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,16.8,Morningside Heights and Hamilton Heights (CD9),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.3,East New York and Starrett City (CD5),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,13.4,Downtown - Heights - Slope,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,14.4,Bensonhurst - Bay Ridge,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,15.0,Borough Park,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.4,Queens Village (CD13),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.4,Coney Island (CD13),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,12.8,Coney Island (CD13),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,15.8,Pelham - Throgs Neck,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,15.6,East New York,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,18.1,Hunts Point and Longwood (CD2),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.6,Bensonhurst - Bay Ridge,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.4,Southeast Queens,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,18.8,Upper East Side,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,14.2,Fort Greene and Brooklyn Heights (CD2),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,10.1,Borough Park,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,8.5,Coney Island - Sheepshead Bay,ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.0,Bensonhurst - Bay Ridge,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.2,Borough Park,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.1,Upper West Side,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.4,Williamsburg - Bushwick,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,8.7,Midtown (CD5),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.7,East New York and Starrett City (CD5),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.6,Jamaica,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,9.1,Midtown (CD5),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,16.2,Bedford Stuyvesant - Crown Heights,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,15.2,Ridgewood - Forest Hills,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,17.5,Park Slope and Carroll Gardens (CD6),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,21.4,Clinton and Chelsea (CD4),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.5,Hunts Point and Longwood (CD2),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.5,Hunts Point and Longwood (CD2),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,16.4,Greenwich Village and Soho (CD2),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,12.1,Kingsbridge Heights and Bedford (CD7),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,14.7,Jamaica and Hollis (CD12),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.5,Greenpoint,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,12.7,Park Slope and Carroll Gardens (CD6),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,17.5,Stuyvesant Town and Turtle Bay (CD6),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,20.2,Greenwich Village and Soho (CD2),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,11.0,Rego Park and Forest Hills (CD6),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,10.6,Ridgewood - Forest Hills,ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.7,Stuyvesant Town and Turtle Bay (CD6),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.9,Park Slope and Carroll Gardens (CD6),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.0,Williamsburg - Bushwick,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.2,Kingsbridge Heights and Bedford (CD7),mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.1,Southeast Queens,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,10.5,Jamaica,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,14.1,Greenpoint,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,13.5,Washington Heights,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,10.9,East New York,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,9.8,Southeast Queens,ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.1,Upper East Side,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.9,Downtown - Heights - Slope,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.1,Northeast Bronx,mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,19.5,Chelsea - Clinton,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,11.6,Northeast Bronx,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,10.6,Fresh Meadows,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,18.4,Greenpoint,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,14.9,Jamaica,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,10.6,Queens,ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,20.5,Greenwich Village - SoHo,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,15.4,Brooklyn,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,16.9,West Queens,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,16.6,Bushwick (CD4),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,11.5,Jackson Heights (CD3),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,11.8,Bushwick (CD4),ppb,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,12.2,Bronx,ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.4,Coney Island - Sheepshead Bay,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,15.4,Morris Park and Bronxdale (CD11),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,16.2,Parkchester and Soundview (CD9),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,6.2,West Queens,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,15.1,Kew Gardens and Woodhaven (CD9),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,13.1,Coney Island - Sheepshead Bay,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,11.4,Rockaways,ppb,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,15.4,East New York and Starrett City (CD5),ppb,Annual Average 2022,2022-01-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,5.5,Fresh Meadows,mcg/m3,Annual Average 2022,2022-01-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,12.4,Parkchester and Soundview (CD9),ppb,Summer 2022,2022-06-01T00:00:00.000
+365,Fine particles (PM 2.5),Mean,7.1,Parkchester and Soundview (CD9),mcg/m3,Summer 2022,2022-06-01T00:00:00.000
+375,Nitrogen dioxide (NO2),Mean,10.6,Kew Gardens and Woodhaven (CD9),ppb,Summer 2022,2022-06-01T00:00:00.000
