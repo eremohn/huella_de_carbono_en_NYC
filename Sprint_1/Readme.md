@@ -1,8 +1,10 @@
-<p align="center">
-<img src="Imagenes_1/vector_new_york_1.png" width="840" height="614""  >
-</p>
 
 ## Puesta en marcha del proyecto
+
+<p align="center">
+<img src="Imagenes_1/vector_new_york_1.png" width="614" height="614""  >
+</p>
+
 
 ### Contexto
 ---
