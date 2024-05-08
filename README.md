@@ -3,7 +3,7 @@
 ## Contexto:
 En un entorno donde los servicios de taxis y viajes compartidos han revolucionado la movilidad urbana en Nueva York, generando una vasta cantidad de datos, surge la necesidad de comprender y aprovechar esta información para mejorar la eficiencia y la sostenibilidad del transporte de pasajeros. Paralelamente, la urgencia de abordar el cambio climático impulsa a las empresas a explorar alternativas más limpias y sostenibles, como la incorporación de vehículos eléctricos a sus flotas, con el fin de reducir la contaminación y mitigar el impacto ambiental.
 
-## Rol a Desarrollar:
+## Misión:
 Nuestro equipo ha sido contratado por una empresa de servicios de transporte de pasajeros, con la finalidad de acompañarla en el proceso de toma de decisiones relacionado con la posible implementación de vehículos eléctricos en su flota. Para ello, utilizaremos datos de alta calidad proporcionados por la empresa, así como otros obtenidos de fuentes externas, como los servicios de taxis y viajes compartidos, la calidad del aire, la contaminación sonora y las correlaciones climáticas. Este análisis exhaustivo nos permitirá evaluar la viabilidad y los impactos potenciales de esta iniciativa.
 
 ## Visualizaciones
