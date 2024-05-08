@@ -17,8 +17,11 @@ Nuestro equipo ha sido contratado para acompañar a la empresa en este proceso d
 Como equipo tomamos la decicion utilizar el servicio de AWS con la finalidad de poder almacenar todos los datasets en crudo; una vez en la nuve los datos seran procesados realizando el ETL para obtener una base de datos limpia para poder trabajar sobre ellas en un EDA.
 
 <div style="display: flex; justify-content: center;">
-<img src="Imagenes_1\Architecture_01.png" width="370" height="150" style="margin-right: 70px;">
+<img src="Imagenes_1\Architecture_01.png" width="640" height="640" style="margin-right: 70px;">
 
+<p align="center">
+  <img src="Imagenes_1/Architecture_01.png" width="840" height="840" />
+</p>
 ### Indicadores Clave de Desempeño
 ---
 
