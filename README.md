@@ -44,16 +44,16 @@ El proyecto se llevo a cavo en tres etapas
 
 ## Integrantes
 ---
-- Data Engineer / Data Science
--- nombre:correo | Linkedin | GitHub.
--- nombre:correo | Linkedin | GitHub.
--- nombre:correo | Linkedin | GitHub.
+ Data Engineer / Data Science 
+ - nombre:correo | Linkedin | GitHub. 
+ - nombre:correo | Linkedin | GitHub.
+ - nombre:correo | Linkedin | GitHub.
 
-- Data Analyst / Data Science
-nombre:correo | Linkedin | GitHub.
-nombre:correo | Linkedin | GitHub.
+ Data Analyst / Data Science
+ - nombre:correo | Linkedin | GitHub.
+ - nombre:correo | Linkedin | GitHub.
 
-- Academia Henry:
-Henry Mentor:  | Linkedin | GitHub.
-Product Owner: | Linkedin | GitHub.
+ Academia Henry:
+ - Henry Mentor:  | Linkedin | GitHub.
+ - Product Owner: | Linkedin | GitHub.
  
