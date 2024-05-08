@@ -21,6 +21,7 @@ Como equipo tomamos la decicion utilizar el servicio de AWS con la finalidad de 
 <p align="center">
   <img src="Imagenes_1/Architecture_01.png" width="840" height="614" />
 </p>
+
 ### Indicadores Clave de Desempeño
 ---
 
