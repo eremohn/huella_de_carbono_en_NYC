@@ -1,3 +1,7 @@
+<p align="center">
+<img src=""  >
+</p>
+
 ## Puesta en marcha del proyecto
 
 ### Contexto
@@ -8,6 +12,9 @@ Sin embargo, al tratarse de una nueva unidad de negocio, la empresa necesita rea
 
 Nuestro equipo ha sido contratado para acompañar a la empresa en este proceso de toma de decisiones. Utilizaremos datos de alta calidad, incluyendo información sobre viajes compartidos, calidad del aire, contaminación sonora y correlaciones climáticas, para proporcionar análisis y recomendaciones fundamentadas que apoyen el crecimiento y la sostenibilidad del negocio.
 
-<p align="center">
-<img src=""  >
-</p>
+### Propuesta de Trabajo
+---
+Como equipo tomamos la decicion utilizar el servicio de AWS con la finalidad de poder almacenar todos los datasets en crudo; una vez en la nuve los datos seran procesados realizando el ETL para obtener una base de datos limpia para poder trabajar sobre ellas en un EDA.
+
+
+
