@@ -8,7 +8,7 @@ El objetivo principal es apoyar la toma de decisiones de una empresa de transpor
 
 # Desarrollo del proyecto 
 --- 
-- 1° Etapa del proyecto [Sprint_1]()
+- 1° Etapa del proyecto [Sprint_1](https://github.com/eremohn/huella_de_carbono_en_NYC/tree/main/Sprint_1)
 - 2° Etapa del proyecto [Sprint_2]()
 - 3° Etapa del proyecto [Sprint_3]()  
 
