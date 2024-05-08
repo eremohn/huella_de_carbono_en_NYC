@@ -22,15 +22,15 @@ Como equipo tomamos la decicion utilizar el servicio de AWS con la finalidad de 
 
 ### Tecnologias
 ---
-AWS S3 
-glue
-atena sql
-quiq side visualizaciones
+- AWS S3 
+- glue
+- atena sql
+- quiq side visualizaciones
 
-databricks catalos grandes
-redshif Data werehouse
+- databricks catalos grandes
+- redshif Data werehouse
 
-aplicacion docker 
+- aplicacion docker 
 
 
 
