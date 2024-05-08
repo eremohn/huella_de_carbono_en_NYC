@@ -2,7 +2,7 @@
 ## Puesta en marcha del proyecto
 
 <p align="center">
-<img src="Imagenes_1/vector_new_york_1.png" width="614" height="614""  >
+<img src="Imagenes_1/NYC_1.png" width="614" height="614""  >
 </p>
 
 
