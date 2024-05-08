@@ -1,0 +1,16 @@
+Diccionario Countries CO2 Emission
+
+| Columna                          | Descripción                                                                                            |
+|----------------------------------|--------------------------------------------------------------------------------------------------------|
+| pais                             | País en cuestión                                                                                       |
+| tipo_energia                     | Tipo de fuente de energía                                                                              |
+| anio                             | Año en que se registraron los datos                                                                    |
+| consumo_de_energia               | Cantidad de consumo para la fuente de energía específica, medida (cuadrillones de BTU)                 |
+| producciion_de_energía           | Cantidad de producción para la fuente de energía específica, medida (cuadrillones de BTU)              |
+| PIB                              | PIB de los países en paridades de poder adquisitivo, medido (billones de dólares 2015 PPP)             |
+| poblacion                        | Población del país específico, medida (millones de personas)                                           |
+| intensidad_energética_per_capita | La intensidad energética es una medida de la ineficiencia energética de una economía. Se calcula como  |
+                                   |  unidades de energía por unidad de persona (persona = individuo), medida (MMBTU/persona)               |
+| intensidad_energética_por_PIB    | La intensidad energética es una medida de la ineficiencia energética de una economía. Se calcula como  |
+                                   | unidades de energía por unidad de PIB, medida (1000 BTU/2015$ PIB PPP)                                 |
+| emision_de_CO2                   | La cantidad de CO2 emitido, medida (millones de toneladas de CO2)                                      |
