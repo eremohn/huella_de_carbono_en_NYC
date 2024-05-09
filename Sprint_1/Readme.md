@@ -30,6 +30,16 @@ El proceso de visualización se dividirá en dos etapas:
 
 ### Indicadores Clave de Desempeño
 ---
+**KPI 1: Incremento de Viajes en Taxis**
+- El número de viajes en taxis realizados aumenta en un 10% respecto al trimestre anterior, reflejando un crecimiento en la demanda de transporte urbano.
+
+**KPI 2: Variación de CO2 en Estados Unidos**
+- Se observa un incremento del 5% en los niveles de dióxido de carbono (CO2) en Estados Unidos con respecto al año anterior, lo que sugiere un posible impacto en la calidad del aire y destaca la necesidad de soluciones más sostenibles.
+
+**KPI 3: Adopción de Taxis Verdes**
+- La proporción de taxis eléctricos o 'verdes' en la flota de vehículos de transporte urbano cumple con el 15% de incremento establecido en un periodo de 1 año, demostrando una transición hacia opciones más ecológicas y sostenibles en el transporte de pasajeros.
+
+
 
 
 ### Tecnologías empleadas
