@@ -1,11 +1,11 @@
 
-## Puesta en marcha del proyecto
 
 <p align="center">
 <img src="Imagenes_1/banner_1_sprint.png" width="996" height="315""  >
 </p>
 
 
+## Puesta en marcha del proyecto
 ### Contexto
 ---
 Una empresa de transporte de pasajeros, actualmente enfocada en el sector de micros de media y larga distancia, busca expandir sus operaciones al ámbito del transporte de pasajeros en automóviles. Con el objetivo de alinearse con las tendencias del mercado y promover un futuro más sostenible, la empresa está interesada en investigar la relación entre los vehículos particulares, la calidad del aire y la contaminación sonora. Este estudio tiene como fin evaluar la viabilidad de incorporar vehículos eléctricos a su flota, ya sea parcial o totalmente.
