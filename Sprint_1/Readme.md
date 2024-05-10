@@ -25,7 +25,7 @@ El proceso de visualización se dividirá en dos etapas:
 
 
 <p align="center">
-  <img src="Imagenes_1/Architecture_01.jpg" width="1600" height="1084" />
+  <img src="Imagenes_1/Architecture_01.jpg"  />
 </p>
 
 ### Indicadores Clave de Desempeño
