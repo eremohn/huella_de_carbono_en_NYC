@@ -1,3 +1,9 @@
+<p align="center">
+<img src="Imagenes/portada.png"   >
+</p>
+
+
+
 # Análisis Integrado para la Toma de Decisiones Estratégicas
 ---
 ## Contexto:
