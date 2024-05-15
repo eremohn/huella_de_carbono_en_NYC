@@ -61,7 +61,7 @@ El proceso de visualización se dividirá en dos etapas:
 ### Cronograma
 ---
 <p align="center">
-  <img src="Imagenes_1/gantt.jpg"  />
+  <img src="Imagenes_1/gantt.jpeg"  />
 </p>
 
 
