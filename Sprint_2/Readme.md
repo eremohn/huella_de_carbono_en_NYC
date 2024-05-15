@@ -19,6 +19,8 @@
 <p align="center">
 <img src="Imagenes_2/Ciclo_del_dato_BigData.jpg"  >
 </p>
+
+
 ### Diseño modelo de datos
 ---
 
