@@ -58,6 +58,13 @@ El proceso de visualización se dividirá en dos etapas:
 - Fargate: Despliega las imágenes de contenedor registradas en ECR utilizando AWS Fargate, un servicio de computación sin servidor que permite ejecutar contenedores Docker sin necesidad de aprovisionar o administrar servidores.
 - ALB (Application Load Balancer): Utiliza un ALB para controlar el tráfico de red hacia las aplicaciones desplegadas en Fargate, asegurando que el acceso a las aplicaciones sea seguro y confiable y protegiendo contra posibles amenazas de seguridad.
 
+### Cronograma
+---
+<p align="center">
+  <img src="Imagenes_1/gantt.jpg"  />
+</p>
+
+
 
 
 
