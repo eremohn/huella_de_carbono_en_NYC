@@ -11,18 +11,24 @@
 
 ### Ciclo de vida del dato
 ---
+
 <p align="center">
 <img src="Imagenes_2/Ciclo_del_dato.jpg"  >
 </p>
+
 ### Diseño modelo de datos
 ---
+
 <p align="center">
 <img src="Imagenes_2/modelo_ER.jpeg"  >
 </p>
+
 ### Infraestructura de datos
 ---
+
 <p align="center">
 <img src="Imagenes_2/Architecture_01.jpg"  >
 </p>
+
 ### Automatización y carga incremental
 ---
