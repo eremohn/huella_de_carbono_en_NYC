@@ -38,3 +38,7 @@
 
 ### Automatización y carga incremental
 ---
+
+<p align="center">
+<img src="Imagenes_2/automatizacion.gif"  >
+</p>
