@@ -2,8 +2,12 @@
 <img src="Imagenes_2/banner_2_sprint.png" width="996" height="344""  >
 </p>
 
-### Extract, Transform, Load
+### Proceso ETL
 ---
+
+<p align="center">
+<img src="Imagenes_2/ETL-Trips.gif"  >
+</p>
 
 ### Ciclo de vida del dato
 ---
