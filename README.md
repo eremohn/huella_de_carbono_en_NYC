@@ -38,6 +38,10 @@ El proyecto se llevo a cavo en tres etapas
 - [Que es un Borough?](https://en.wikipedia.org/wiki/Boroughs_of_New_York_City)
 - [Fuel consumption raitings](https://open.canada.ca/data/en/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64#wb-auto-6)
 
+## Presentación
+[Demo](https://view.genially.com/6642693ba5b3240014a4742d/presentation-hacia-una-movilidad-sostenible)
+
+
 ## Insights
 ---
 - completar
