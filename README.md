@@ -43,6 +43,7 @@ El proyecto se llevo a cavo en tres etapas
 - [Dataset de la calidad del aire de NYC](https://data.cityofnewyork.us/Environment/Air-Quality/c3uy-2p5r)
 - [Que es un Borough?](https://en.wikipedia.org/wiki/Boroughs_of_New_York_City)
 - [Fuel consumption raitings](https://open.canada.ca/data/en/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64#wb-auto-6)
+- [State carbon dioxide emissions from fossil fuels tables: New York](https://www.eia.gov/environment/emissions/state/excel/states/new%20york.xlsx)
 
 ## Presentación
 [Demo](https://view.genially.com/6642693ba5b3240014a4742d/presentation-hacia-una-movilidad-sostenible)
