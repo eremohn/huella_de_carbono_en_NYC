@@ -2,14 +2,11 @@ Diccionario NYC_air_quality
 
 | Columna                          | Descripción                                                                                                                   |
 |----------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| id_indicador                     | Identificador del tipo de valor medido en el tiempo y el espacio.                                                             |
-| nombre                           | Nombre del indicador                                                                                                          |
-| medicion                         | Cómo se mide el indicador                                                                                                     |
-| valor_medida                     | El valor real de los datos para este indicador, medida, lugar y tiempo.                                                       |
-| nombre_del_barrio                | Nombre del barrio                                                                                                             |
-| unidad_de_medida                 | Información (como unidades) sobre la medida.                                                                                  |
-| periodo_de_tiempo                | Descripción del tiempo al que se refieren los datos; Podría ser un año, un rango de años o una temporada por ejemplo.         |
-| inicio_medicion                  | Valor de fecha para el inicio de la medicion; Siempre un valor de fecha; podría ser útil para trazar una serie de tiempo      |
+| contaminante                     | Nombre del contaminante                                                                                                       |
+| data_value                       | Valor medición                                                                                                                |
+| measure_info                     | Unidades de medida                                                                                                            |
+| Barrio                           | Nombre del barrio                                                                                                             |
+| fecha                            | fecha en la cual se dio inicio de la medición; Siempre un valor de fecha; podría ser útil para trazar una serie de tiempo     |
                                  
 
 

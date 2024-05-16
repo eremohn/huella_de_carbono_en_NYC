@@ -1,12 +1,8 @@
 Diccionario NYC_sonidos
 
 | Columna                               | Descripción                                                                                                                   |
-|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| annotator_id                          | El ID anónimo del anotador. Si este valor es positivo, es un voluntario de ciencia ciudadana de la plataforma Zooniverse.     |                             |                                       | Si es negativo, es un miembro del equipo de SONYC. Si es 0, entonces es la verdad acordada por el equipo de SONYC.            |                                                         
-| borough                               | El distrito de la ciudad de Nueva York en el que se encuentra el sensor (1=Manhattan, 3=Brooklyn, 4=Queens).                  | |                                       | Esto corresponde al primer dígito en el sistema de números de parcelas de la ciudad de Nueva York conocido como               |                                   |                                       | Borough, Block, Lot (BBL) de 10 dígitos.                                                                                      |                                                            
-| block                                 | La manzana de la ciudad de Nueva York en la que se encuentra el sensor. Esto corresponde a los dígitos 2 al 6 en el sistema   | |                                       | de números de parcelas de la ciudad de Nueva York conocido como Borough, Block, Lot (BBL) de 10 dígitos.                      |                                                                                
-| latitude                              | La coordenada de latitud de la manzana en la que se encuentra el sensor.                                                      |                                                   
-| longitude                             | La coordenada de longitud de la manzana en la que se encuentra el sensor.                                                     |                                                                                                            
+|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|                                                        
+| Barrio                                | El distrito de la ciudad de Nueva York en el que se encuentra el sensor                                                       |                                                                                                                                                                
 | fecha                                 | Fecha de inicio de medición 
 
 
