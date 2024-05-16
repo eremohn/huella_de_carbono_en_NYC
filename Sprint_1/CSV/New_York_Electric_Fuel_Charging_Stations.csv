@@ -1,0 +1,380 @@
+Nombre de la Estación,Tipo de Instalación,Latitude,Longitude,Barrio
+Port Authority Bus Terminal,PARKING_GARAGE,40.756177,-73.990558,Manhattan
+United Parcel Service,FLEET_GARAGE,40.762442,-74.000055,Manhattan
+Spectrum,OFFICE_BLDG,40.87121,-73.911616,Bronx
+Central Parking - Tower 31,No data,40.747098,-73.986641,Manhattan
+Tribeca Park,No data,40.717717,-74.015049,Brooklyn
+Environmental Protection Agency,FED_GOV,40.714723,-74.005143,Brooklyn
+Mott Street Parking - Tesla Supercharger,No data,40.717522,-73.997302,Brooklyn
+W 75th Parking Garage - Tesla Supercharger,No data,40.780976,-73.980414,Manhattan
+E 47th Street - Tesla Supercharger,No data,40.753356,-73.971685,Manhattan
+MPG 10 E 102nd Street - Tesla Destination,PAY_GARAGE,40.791232,-73.95237,Manhattan
+Rapidpark 10 E 30th Street - Tesla Destination,PAY_GARAGE,40.745384,-73.985704,Manhattan
+Icon Parking 1056 5th Avenue - Tesla Destination,PAY_GARAGE,40.782031,-73.959484,Manhattan
+iPark 10 West 15th - Tesla Destination,PAY_GARAGE,40.736754,-73.993789,Manhattan
+GGMC Parking 10 W 66th St Garage - Tesla Destination,PAY_GARAGE,40.772308,-73.978966,Manhattan
+GGMC Parking Union Square Parking Garage - Tesla Destination,PAY_GARAGE,40.734817,-73.989198,Manhattan
+Icon Parking 100 Riverside Blvd. - Tesla Destination,PAY_GARAGE,40.775704,-73.989483,Manhattan
+Rapidpark 600 Columbus Ave - Tesla Destination,PAY_GARAGE,40.788305,-73.971353,Manhattan
+Champion Parking E 16th Street - Tesla Destination,PAY_GARAGE,40.736116,-73.989322,Manhattan
+Icon Parking 101 W 15th - Tesla Destination,PAY_GARAGE,40.738352,-73.996519,Manhattan
+iPark NYC 88th Street Garage - Tesla Destination,PAY_GARAGE,40.787976,-73.971145,Manhattan
+Icon Parking 101 West End Ave - Tesla Destination,PAY_GARAGE,40.775188,-73.988501,Manhattan
+ABM Parking 475 Park Ave South LLC - Tesla Destination,PAY_GARAGE,40.745497,-73.98208,Manhattan
+Rapidpark 99 Park Ave - Tesla Destination,PAY_GARAGE,40.750254,-73.978627,Manhattan
+iPark 107 West 13th Street - Tesla Destination,PAY_GARAGE,40.737094,-73.997754,Manhattan
+Icon Parking 11 5th Ave - Tesla Destination,PAY_GARAGE,40.732257,-73.99608,Manhattan
+iPark NYC 1025 83rd - Tesla Destination,PAY_GARAGE,40.779468,-73.961086,Manhattan
+GMC 111 E 82nd St - Tesla Destination,PAY_GARAGE,40.777545,-73.958471,Manhattan
+iPark 112 E 65th Street - Tesla Destination,PAY_GARAGE,40.766174,-73.966419,Manhattan
+Quik Park 1133 Garage LLC - Tesla Destination,PAY_GARAGE,40.756071,-73.98392,Manhattan
+iPark 1510 Lex Garage Corp. - Tesla Destination,PAY_GARAGE,40.787343,-73.951003,Manhattan
+ABM Parking 750 Lexington Ave LLC - Tesla Destination,PAY_GARAGE,40.762806,-73.9687,Manhattan
+Icon Parking 12 East 9th Street - Tesla Destination,PAY_GARAGE,40.732324,-73.99517,Manhattan
+MPG 121 Reade Street - Tesla Destination,PAY_GARAGE,40.716208,-74.009488,Brooklyn
+GMC Parking Narragansett - Tesla Destination,PAY_GARAGE,40.764767,-73.967021,Manhattan
+Rapidpark 124 W 20th Street - Tesla Destination,HOTEL,40.741371,-73.995533,Manhattan
+Quik Park Garden Lots LLC - Tesla Destination,PAY_GARAGE,40.748789,-73.989915,Manhattan
+ABM Parking 13 East 54th Street LLC - Tesla Destination,PAY_GARAGE,40.761051,-73.974877,Manhattan
+New York Hilton Midtown - Tesla Destination,HOTEL,40.762445,-73.97971,Manhattan
+1345 Parking Garage - Tesla Destination,PAY_GARAGE,40.76351,-73.979364,Manhattan
+Icon Parking 1350 Avenue of the Americas - Tesla Destination,PAY_GARAGE,40.762653,-73.977846,Manhattan
+Icon Parking 14-26 William Street - Tesla Destination,PAY_GARAGE,40.704976,-74.009682,Brooklyn
+Icon Parking OMNI - Tesla Destination,PAY_GARAGE,40.775545,-73.9818,Manhattan
+Rapidpark 148 E 33rd Street - Tesla Destination,PAY_GARAGE,40.745236,-73.979736,Manhattan
+Rapidpark 15 W 72nd Street - Tesla Destination,PAY_GARAGE,40.777008,-73.97689,Manhattan
+Icon Parking 150 Charles Street - Tesla Destination,PAY_GARAGE,40.733633,-74.009239,Manhattan
+Icon Parking 150 E 58th Street - Tesla Destination,PAY_GARAGE,40.76161,-73.96775,Manhattan
+Rapidpark 150 East 77th Street - Tesla Destination,PAY_GARAGE,40.773472,-73.95992,Manhattan
+Standard Parking 151 W 17th Street - Tesla Destination,PAY_GARAGE,40.740728,-73.997493,Manhattan
+Icon Parking 155 E 29th Street - Tesla Destination,HOTEL,40.742968,-73.980565,Manhattan
+City Parking Garment One Garage - Tesla Destination,PAY_GARAGE,40.7462,-73.978528,Manhattan
+Prime Parking Systems - 155 E 68th Street - Tesla Destination,PAY_GARAGE,40.768032,-73.963983,Manhattan
+Champion Parking W 53rd Street - Tesla Destination,PAY_GARAGE,40.763,-73.981278,Manhattan
+Icon Parking 16 W 16th Street - Tesla Destination,PAY_GARAGE,40.737595,-73.993837,Manhattan
+GGMC Parking Alfred - Tesla Destination,PAY_GARAGE,40.771561,-73.985834,Manhattan
+iPark NYC E 77th Street - Tesla Destination,PAY_GARAGE,40.77364,-73.959302,Manhattan
+Parkright 169 Ludlow Street - Tesla Destination,PAY_GARAGE,40.721724,-73.987776,Brooklyn
+Icon Parking 169 W 95th Street - Tesla Destination,PAY_GARAGE,40.793528,-73.97024,Manhattan
+Residence Inn New York Manhattan - Tesla Destination,HOTEL,40.764369,-73.982707,Manhattan
+Quikpark 173 W 12th Street - Tesla Destination,PAY_GARAGE,40.7372,-74.00007,Manhattan
+Quik Park Hudson 180 LLC - Tesla Destination,PAY_GARAGE,40.778397,-73.987899,Manhattan
+iPark NYC 183 E 73rd Street - Tesla Destination,HOTEL,40.770442,-73.960649,Manhattan
+Icon Parking 240 East Broadway - Tesla Destination,PAY_GARAGE,40.715074,-73.986927,Brooklyn
+Glenwood Grand Tier Parking - Tesla Destination,PAY_GARAGE,40.772436,-73.981695,Manhattan
+Standard Parking 20 W 13th Street - Tesla Destination,PAY_GARAGE,40.735594,-73.995291,Manhattan
+Central Parking 200 Chambers - Tesla Destination,PAY_GARAGE,40.716579,-74.012393,Brooklyn
+Icon Parking 200 E 32nd Street - Tesla Destination,PAY_GARAGE,40.744029,-73.978952,Manhattan
+Icon Parking 200 E 65th Street - Tesla Destination,PAY_GARAGE,40.764777,-73.963555,Manhattan
+Enterprise Parking 200 E 69th St - Tesla Destination,PAY_GARAGE,40.767289,-73.961762,Manhattan
+iPark 200 E 70th Street - Tesla Destination,PAY_GARAGE,40.768244,-73.961621,Manhattan
+iPark NYC The Carnegie Garage - Tesla Destination,PAY_GARAGE,40.783355,-73.949998,Manhattan
+GMC Copley Parking - Tesla Destination,PAY_GARAGE,40.775496,-73.981552,Manhattan
+MPG 201 E 56th - Tesla Destination,PAY_GARAGE,40.759764,-73.967956,Manhattan
+Icon Parking 203 E 61 Street - Tesla Destination,PAY_GARAGE,40.762948,-73.965513,Manhattan
+Rapidpark 204 W 101st Street - Tesla Destination,PAY_GARAGE,40.797283,-73.968766,Manhattan
+Champion Parking W 76th Street - Tesla Destination,PAY_GARAGE,40.78168,-73.97994,Manhattan
+Icon Parking 810 Seventh Ave - Tesla Destination,PAY_GARAGE,40.762891,-73.983151,Manhattan
+Standard Parking 21 East 15th Street - Tesla Destination,PAY_GARAGE,40.73644,-73.992027,Manhattan
+Rapidpark 210 W 102nd Street - Tesla Destination,PAY_GARAGE,40.797961,-73.968389,Manhattan
+Champion Parking 74 LLC - Tesla Destination,PAY_GARAGE,40.780143,-73.98221,Manhattan
+GGMC Parking Seven Eleven (Located at 217 E 44th St) - Tesla Destination,PAY_GARAGE,40.752004,-73.972808,Manhattan
+Icon Parking 220 Riverside Blvd - Tesla Destination,PAY_GARAGE,40.77975,-73.987272,Manhattan
+iPark 200 West Garage Corp. - Tesla Destination,PAY_GARAGE,40.746142,-73.995221,Manhattan
+Parkit 221 Thompson Street - Tesla Destination,PAY_GARAGE,40.729372,-73.999217,Manhattan
+Icon Parking 225 W 83 Street - Tesla Destination,PAY_GARAGE,40.786371,-73.977357,Manhattan
+Quik Park Broadway Garage LLC - Tesla Destination,PAY_GARAGE,40.765735,-73.982101,Manhattan
+GGMC Yorkville Car Park - Tesla Destination,PAY_GARAGE,40.782163,-73.95059,Manhattan
+Champion Parking 230 W 55th Street - Tesla Destination,PAY_GARAGE,40.764693,-73.982708,Manhattan
+Icon Parking 237 West Thames - Tesla Destination,PAY_GARAGE,40.708465,-74.016762,Brooklyn
+Icon 299 Peal Street Seaport Parking - Tesla Destination,PAY_GARAGE,40.70736,-74.004989,Brooklyn
+iPark 245 East 63rd Street - Tesla Destination,PAY_GARAGE,40.763562,-73.963079,Manhattan
+GGMC Ruppert Car Park - Tesla Destination,PAY_GARAGE,40.780918,-73.950526,Manhattan
+iPark NYC 246 E 45 Street - Tesla Destination,PAY_GARAGE,40.751676,-73.971144,Manhattan
+iPark NYC 250 West Parking - Tesla Destination,PAY_GARAGE,40.742179,-73.999226,Manhattan
+Quik Park Columbia Garage LLC - Tesla Destination,PAY_GARAGE,40.795279,-73.971688,Manhattan
+Quik Park 40 Riverside Blvd - Tesla Destination,PAY_GARAGE,40.773464,-73.989532,Manhattan
+Rapidpark 25-27 Beekman Street - Tesla Destination,PAY_GARAGE,40.710628,-74.006186,Brooklyn
+Rapidpark 254 W 79th Street - Tesla Destination,PAY_GARAGE,40.78386,-73.980521,Manhattan
+MPG 266 E 97 St - Tesla Destination,PAY_GARAGE,40.784771,-73.946728,Manhattan
+Parkit 27 N Moore Street - Tesla Destination,PAY_GARAGE,40.720215,-74.007465,Brooklyn
+iPark 455 Central Park West - Tesla Destination,PAY_GARAGE,40.797875,-73.961228,Manhattan
+Standard Parking 270 Greenwich - Tesla Destination,PAY_GARAGE,40.715543,-74.011435,Brooklyn
+Icon Parking 279 East 65th Street - Tesla Destination,PAY_GARAGE,40.764758,-73.962042,Manhattan
+ABM Parking Services 285 W 50th Street LLC - Tesla Destination,PAY_GARAGE,40.762337,-73.985727,Manhattan
+Parkright 39 E 29th Street - Tesla Destination,HOTEL,40.744551,-73.984535,Manhattan
+iPark 3 E 67th Street - Tesla Destination,PAY_GARAGE,40.769386,-73.969137,Manhattan
+Icon Parking 30 W 63rd St - Tesla Destination,PAY_GARAGE,40.770769,-73.981573,Manhattan
+GGMC Parking Connaught - Tesla Destination,PAY_GARAGE,40.756956,-73.966399,Manhattan
+Icon Parking 300 E 59th Street - Tesla Destination,PAY_GARAGE,40.760421,-73.964418,Manhattan
+GGMC Parking E 74th Street - Tesla Destination,PAY_GARAGE,40.769925,-73.957476,Manhattan
+Parkright 300 E 77th St - Tesla Destination,HOTEL,40.771689,-73.955816,Manhattan
+Icon Parking 301 E 57 Street - Tesla Destination,PAY_GARAGE,40.759484,-73.965206,Manhattan
+Parkit 301 E 64th - Tesla Destination,PAY_GARAGE,40.76389,-73.961892,Manhattan
+Icon Parking 308 Greenwich - Tesla Destination,HOTEL,40.717568,-74.011042,Brooklyn
+Parkit 310 E 11th Street - Tesla Destination,PAY_GARAGE,40.729871,-73.98568,Manhattan
+Waldorf Astoria New York - Tesla Destination,HOTEL,40.757047,-73.974455,Manhattan
+Quik Park 311 West Broadway LLC - Tesla Destination,PAY_GARAGE,40.721638,-74.003781,Brooklyn
+Icon Parking 322 23rd Street - Tesla Destination,PAY_GARAGE,40.737362,-73.980167,Manhattan
+Quik Park 32 Debrosses LLC - Tesla Destination,PAY_GARAGE,40.723702,-74.010335,Manhattan
+Glenwood Belmont Parking - Tesla Destination,PAY_GARAGE,40.751784,-73.969463,Manhattan
+Champion Parking W 57th Street - Tesla Destination,PAY_GARAGE,40.767194,-73.984544,Manhattan
+GGMC Parking 8 E 33rd St Garage - Tesla Destination,PAY_GARAGE,40.74733,-73.984857,Manhattan
+Icon Parking E 48th Street - Tesla Destination,PAY_GARAGE,40.75323,-73.96799,Manhattan
+Icon Parking 330 E 39th Street - Tesla Destination,PAY_GARAGE,40.747123,-73.972257,Manhattan
+Icon Parking 330 W 58th Street - Tesla Destination,PAY_GARAGE,40.767725,-73.983646,Manhattan
+Apple Parking 332 W 11th Street - Tesla Destination,PAY_GARAGE,40.735404,-74.007717,Manhattan
+iPark NYC 333 E 38th NYU - Tesla Destination,PAY_GARAGE,40.746891,-73.972547,Manhattan
+Standard Parking Gateway Plaza Garage - Tesla Destination,PAY_GARAGE,40.710652,-74.016396,Brooklyn
+MPG 340 East 93rd - Tesla Destination,PAY_GARAGE,40.781375,-73.946721,Manhattan
+Rapidpark 340 94th Street - Tesla Destination,PAY_GARAGE,40.781961,-73.946209,Manhattan
+iPark NYC 345 East Garage - Tesla Destination,PAY_GARAGE,40.773471,-73.952304,Manhattan
+Rapidpark 35 E 75th Street - Tesla Destination,PAY_GARAGE,40.773815,-73.963696,Manhattan
+"The Carlyle Hotel, A Rosewood Hotel - Tesla Destination",HOTEL,40.774308,-73.963182,Manhattan
+Quik Park 82nd Street LLC - Tesla Destination,PAY_GARAGE,40.774316,-73.951909,Manhattan
+GGMC Parking 350 W 43rd Street Garage - Tesla Destination,PAY_GARAGE,40.758503,-73.991285,Manhattan
+Rapidpark 351 East 83rd - Tesla Destination,PAY_GARAGE,40.775208,-73.950978,Manhattan
+Icon Parking 35-39 East 61st Street - Tesla Destination,PAY_GARAGE,40.764876,-73.970102,Manhattan
+Icon 376 Greenwich Street - Tesla Destination,PAY_GARAGE,40.719814,-74.010394,Brooklyn
+iPark NYU 377 E 33rd Street - Tesla Destination,PAY_GARAGE,40.743382,-73.974251,Manhattan
+Icon Parking 111 8th Ave Parking - Tesla Destination,PAY_GARAGE,40.741669,-74.004397,Manhattan
+iPark 386 E 48th Street - Tesla Destination,PAY_GARAGE,40.751772,-73.964999,Manhattan
+Icon Parking Wall Park - Tesla Destination,PAY_GARAGE,40.706109,-74.010148,Brooklyn
+GGMC Parking Carnegie Garage - Tesla Destination,PAY_GARAGE,40.785524,-73.95496,Manhattan
+City Parking RL Mercer Street - Tesla Destination,PAY_GARAGE,40.721244,-74.00092,Brooklyn
+Icon Parking 40 W 26th Street - Tesla Destination,PAY_GARAGE,40.743961,-73.989912,Manhattan
+iPark NYC 400 E 35th NYU - Tesla Destination,PAY_GARAGE,40.744093,-73.972689,Manhattan
+Icon Liberty View Parking - Tesla Destination,PAY_GARAGE,40.716079,-74.015929,Brooklyn
+Champion Parking 113 LLC - Tesla Destination,PAY_GARAGE,40.804007,-73.960887,Manhattan
+Propark 401 W 110th Street - Tesla Destination,PAY_GARAGE,40.802368,-73.961689,Manhattan
+Parkit 403 Lafayette St. - Tesla Destination,PAY_GARAGE,40.728137,-73.992393,Manhattan
+iPark 41 E 85th Street - Tesla Destination,PAY_GARAGE,40.780305,-73.959091,Manhattan
+Rapidpark 411 W 55th Street - Tesla Destination,PAY_GARAGE,40.767111,-73.987232,Manhattan
+GGMC Parking 415 E 79th - Tesla Destination,PAY_GARAGE,40.772197,-73.95183,Manhattan
+Icon Parking Sutton 53 - Tesla Destination,PAY_GARAGE,40.755371,-73.963368,Manhattan
+Icon Parking Independent - Tesla Destination,PAY_GARAGE,40.766976,-73.955645,Manhattan
+GMC Parking 420 E 53rd - Tesla Destination,PAY_GARAGE,40.755013,-73.963549,Manhattan
+Sutton Place North Garage - Tesla Destination,PAY_GARAGE,40.755679,-73.963528,Manhattan
+imPark 422 E 79th Street - Tesla Destination,PAY_GARAGE,40.771766,-73.951838,Manhattan
+Quik Park West 23rd Street Garage LLC - Tesla Destination,PAY_GARAGE,40.746762,-74.001428,Manhattan
+iPark NYC 425 E 58th Street - Tesla Destination,PAY_GARAGE,40.758766,-73.961406,Manhattan
+City Parking E 61st Street - Tesla Destination,PAY_GARAGE,40.760522,-73.959278,Manhattan
+ABM Parking 866 UN Plaza - Tesla Destination,PAY_GARAGE,40.752516,-73.965347,Manhattan
+Quikpark 43-08 Crescent Street - Tesla Destination,PAY_GARAGE,40.748762,-73.942538,Manhattan
+iPark NYC 44 Elizabeth Street - Tesla Destination,PAY_GARAGE,40.716947,-73.996472,Brooklyn
+Quik Park 86th St. LLC - Tesla Destination,PAY_GARAGE,40.775975,-73.947732,Manhattan
+Rapidpark 480 Riverside (120th St) - Tesla Destination,PAY_GARAGE,40.811206,-73.963782,Manhattan
+iPark NYC Central Harlem Garage Corp. - Tesla Destination,PAY_GARAGE,40.801497,-73.94792,Manhattan
+Icon Parking 5 E 22nd Street - Tesla Destination,PAY_GARAGE,40.740794,-73.988885,Manhattan
+GGMC Parking Battery Place - Tesla Destination,PAY_GARAGE,40.706643,-74.018095,Brooklyn
+GGMC Parking 50 E 79th St Garage - Tesla Destination,PAY_GARAGE,40.775932,-73.961937,Manhattan
+MPG 500 West 30th - Tesla Destination,PAY_GARAGE,40.751987,-74.001701,Manhattan
+Roger Smith Hotel - Tesla Destination,HOTEL,40.754735,-73.973361,Manhattan
+Icon Parking 51 W 22nd - Tesla Destination,PAY_GARAGE,40.742197,-73.992168,Manhattan
+Icon Parking 524 East 73rd - Tesla Destination,PAY_GARAGE,40.766741,-73.95193,Manhattan
+GGMC Parking 51-53 E 76th St Carlyle Hotel - Tesla Destination,PAY_GARAGE,40.774265,-73.96278,Manhattan
+iPark 530 E 80th Street - Tesla Destination,PAY_GARAGE,40.771136,-73.948252,Manhattan
+MPG 530 West 30th - Tesla Destination,PAY_GARAGE,40.752558,-74.002736,Manhattan
+Icon Parking E 88th Street - Tesla Destination,PAY_GARAGE,40.776302,-73.944521,Manhattan
+Icon Parking 54 Murray Street - Tesla Destination,PAY_GARAGE,40.714121,-74.009808,Brooklyn
+Standard Parking 800 6th Ave - Tesla Destination,PAY_GARAGE,40.745449,-73.989622,Manhattan
+Loews Regency New York - Tesla Destination,HOTEL,40.764608,-73.969355,Manhattan
+MPG 543 W 110th Street Garage - Tesla Destination,PAY_GARAGE,40.804167,-73.965894,Manhattan
+iPark NYC 549 W 23rd Street - Tesla Destination,PAY_GARAGE,40.748931,-74.006078,Manhattan
+Icon Parking 55 W 14th Street - Tesla Destination,PAY_GARAGE,40.737266,-73.99611,Manhattan
+GGMC Parking - 550 W 25th - Tesla Destination,PAY_GARAGE,40.749666,-74.005485,Manhattan
+iPark Eleventh Avenue Garage Corp. - Tesla Destination,PAY_GARAGE,40.752693,-74.002954,Manhattan
+Icon Parking 560 Third Ave - Tesla Destination,HOTEL,40.748094,-73.976864,Manhattan
+Rapidpark 575 1st Avenue - Tesla Destination,PAY_GARAGE,40.742761,-73.974554,Manhattan
+Parkit 575 Washington - Tesla Destination,PAY_GARAGE,40.729474,-74.008847,Manhattan
+Standard Parking 58 W 58th Street - Tesla Destination,PAY_GARAGE,40.764459,-73.976349,Manhattan
+iPark 59-63 Allen Street - Tesla Destination,PAY_GARAGE,40.717124,-73.99201,Brooklyn
+Champion Parking 90 LLC - Tesla Destination,PAY_GARAGE,40.783085,-73.956304,Manhattan
+Champion Parking 60 East End Avenue - Tesla Destination,PAY_GARAGE,40.772794,-73.946969,Manhattan
+RapidPark 600 Columbus Ave - Tesla Destination,PAY_GARAGE,40.788716,-73.970934,Manhattan
+Quik Park 600 West 42nd Street (Silver Towers) LLC - Tesla Destination,PAY_GARAGE,40.760809,-73.998773,Manhattan
+"MTP Parking, The Helena - Tesla Destination",PAY_GARAGE,40.770771,-73.991789,Manhattan
+Champion Parking 60 E 8th - Tesla Destination,PAY_GARAGE,40.730501,-73.993075,Manhattan
+iPark NYC 61 Jane Street - Tesla Destination,PAY_GARAGE,40.738222,-74.005908,Manhattan
+Parkit 10 Wooster St. - Tesla Destination,PAY_GARAGE,40.721131,-74.00357,Brooklyn
+imPark 611 E 83rd Street - Tesla Destination,PAY_GARAGE,40.772931,-73.945552,Manhattan
+MTP 625 W 57th Street - Tesla Destination,PAY_GARAGE,40.771431,-73.992964,Manhattan
+Icon Parking University 10 Parking - Tesla Destination,PAY_GARAGE,40.731544,-73.992045,Manhattan
+Parkright 670 W 43rd Street - Tesla Destination,HOTEL,40.762316,-74.000256,Manhattan
+Quik Park Little West LLC - Tesla Destination,PAY_GARAGE,40.706976,-74.016962,Brooklyn
+Rapidpark 70 Riverside Dr - Tesla Destination,PAY_GARAGE,40.785014,-73.982037,Manhattan
+The Peninsula Hotel New York - Tesla Destination,HOTEL,40.76178,-73.975057,Manhattan
+Parkright 738 Greenwich Street - Tesla Destination,PAY_GARAGE,40.735165,-74.007231,Manhattan
+iPark 650 Parking Corp - Tesla Destination,PAY_GARAGE,40.767935,-73.96671,Manhattan
+Icon Parking 70 Gold Street - Tesla Destination,PAY_GARAGE,40.709609,-74.004401,Brooklyn
+Icon 80 Riverside Blvd - Tesla Destination,PAY_GARAGE,40.775054,-73.989946,Manhattan
+Quik Park 808 Garage LLC - Tesla Destination,PAY_GARAGE,40.795214,-73.966003,Manhattan
+"The Standard, High Line - Tesla Destination",HOTEL,40.740828,-74.008074,Manhattan
+Chelnik Parking NYC 880 5th - Tesla Destination,PAY_GARAGE,40.770385,-73.968296,Manhattan
+Icon 9-11 Park Ave - Tesla Destination,PAY_GARAGE,40.747207,-73.980743,Manhattan
+Rapidpark 9-11 W 100th Street - Tesla Destination,PAY_GARAGE,40.794681,-73.963228,Manhattan
+Quik Park West 57 LLC - Tesla Destination,PAY_GARAGE,40.763888,-73.97499,Manhattan
+GGMC Parking Stewart House Garage - Tesla Destination,PAY_GARAGE,40.73099,-73.990963,Manhattan
+Rapidpark 920 Park Avenue - Tesla Destination,PAY_GARAGE,40.776673,-73.960253,Manhattan
+MPG 923 5th Ave - Tesla Destination,PAY_GARAGE,40.773173,-73.966026,Manhattan
+GGMC The Cove - Tesla Destination,PAY_GARAGE,40.707624,-74.016593,Brooklyn
+Icon Parking 990 Ave of the Americas - Tesla Destination,OFFICE_BLDG,40.751363,-73.986389,Manhattan
+59 Allen Street - Tesla Supercharger,PARKING_LOT,40.717153,-73.991869,Brooklyn
+iPark NYC 75 Wall Street - Tesla Destination,No data,40.705042,-74.008118,Brooklyn
+New York University - Plaza Nursery School,COLLEGE_CAMPUS,40.7273617,-73.9975331999999,Manhattan
+Company,OFFICE_BLDG,40.7537571,-73.9783437999999,Manhattan
+Jerome-Gun Hill Road - Municipal Parking Garage,PARKING_GARAGE,40.882958,-73.880725,Bronx
+Yeshiva University,COLLEGE_CAMPUS,40.8506642,-73.9306379,Bronx
+The Veneto,No data,40.756766,-73.967481,Manhattan
+Coliseum Park Apts - Central Parking,No data,40.768432,-73.984033,Manhattan
+Astor Place,No data,40.7297,-73.991565,Manhattan
+Central Parking - 58 West 58th St,No data,40.764655,-73.9761,Manhattan
+Superior Ink,No data,40.737537,-74.00983,Manhattan
+The Westport,No data,40.768211,-73.989479,Manhattan
+TATABROOKFIELD #3,No data,40.755093,-73.955605,Manhattan
+Glenwood Management - Paramount Garage,PAY_GARAGE,40.74793,-73.974556,Manhattan
+35 SUTTON 1 35 SUTTON PL,No data,40.758358,-73.9597,Manhattan
+iPark NYC 555 West Garage Corp. - Tesla Destination,No data,40.748931,-74.006078,Manhattan
+iPark NYC E 80th Street - Tesla Destination,No data,40.773471,-73.952304,Manhattan
+Icon Parking 245 E 19th St. - Tesla Destination,No data,40.73591,-73.983331,Manhattan
+iPark NYC 455 Central Park West - Tesla Destination,No data,40.797875,-73.961228,Manhattan
+300 W 135 St - Little Man Parking - Tesla Destination,No data,40.816366,-73.947365,Manhattan
+Icon Parking 515 E 72nd Street - Tesla Destination,No data,40.766857,-73.952647,Manhattan
+Manhattan Parking 110 LLC - Tesla Destination,No data,40.804167,-73.965894,Manhattan
+Weill Cornell Medical,HOSPITAL,40.765378,-73.955054,Manhattan
+Weill Cornell Medical,HOSPITAL,40.765313,-73.955553,Manhattan
+United Nations,OFFICE_BLDG,40.748965,-73.969649,Manhattan
+Delancey and Essex Municipal Parking Garage,PARKING_GARAGE,40.7193187,-73.9881965,Brooklyn
+PANYNJ LGA E GARAGE C1,No data,40.77033,-73.865683,Queens
+BMW CAR SHARING THE SOLAIRE ST1,No data,40.716305,-74.016194,Brooklyn
+MP 102 LLC MP 102 LLC,No data,40.791267,-73.952039,Manhattan
+MONTEFIOREMOSES MOSES,No data,40.879718,-73.880394,Bronx
+MP 225 LLC NS1-100 JAY ST,No data,40.70182,-73.986824,Brooklyn
+CARCHARGING GMC 225 W 49 #1,No data,40.761376,-73.985273,Manhattan
+Apple West Parking,No data,40.795783,-73.973678,Manhattan
+Manhattan Plaza,No data,40.759223,-73.992703,Manhattan
+Icon Parking - 111 Eighth Avenue,No data,40.741421,-74.003186,Manhattan
+Icon Parking - Patriot Parking,No data,40.719772,-74.010475,Brooklyn
+Icon Parking - One Lincoln Plaza,No data,40.771626,-73.981032,Manhattan
+Tribeca Green,No data,40.71695,-74.014948,Brooklyn
+Central Parking - 146 W 57th St,No data,40.764609,-73.979517,Manhattan
+Carnegie Hill,No data,40.784865,-73.948526,Manhattan
+170 Park Row,PARKING_GARAGE,40.713246,-74.001,Brooklyn
+CHHA2 Garages LLC,PARKING_GARAGE,40.733934,-73.993118,Manhattan
+CHHA2 Garages LLC,PARKING_GARAGE,40.757099,-73.963122,Manhattan
+CHHA2 Garages,PAY_GARAGE,40.811438,-73.960481,Manhattan
+STATION 4TH FL MOTORGATE 3,No data,40.764464,-73.946924,Manhattan
+STATION 4TH FL MOTORGATE #2,No data,40.764208,-73.947198,Manhattan
+551W21 SR Capital - Tesla Destination,No data,40.747278,-74.007618,Manhattan
+Enterprise Parking 219 E 69th St - Tesla Destination,No data,40.767519,-73.960678,Manhattan
+iPark 314 W 120th Street - Tesla Destination,No data,40.806974,-73.954006,Manhattan
+Nap York - Tesla Destination,No data,40.752301,-73.99,Manhattan
+Park N Go - E 121 St - Tesla Destination,No data,40.800795,-73.937382,Manhattan
+Parkit 200 West End Ave - Tesla Destination,No data,40.777982,-73.985407,Manhattan
+Rapidpark 205 W 101st Street - Tesla Destination,No data,40.797676,-73.968479,Manhattan
+"The Standard, East Village - Tesla Destination",No data,40.867375,-73.924227,Bronx
+Icon Parking - Claridge 87 Parking,No data,40.779687,-73.952595,Manhattan
+Imperial Parking,No data,40.7440113,-73.9741155,Manhattan
+STATION 4TH FL MOTORGATE #1,No data,40.764429,-73.946793,Manhattan
+Icon Parking 1114 Ave & 6th,No data,40.755245,-73.983406,Manhattan
+NYC FLEET DPR_ICAHN_1_L3,No data,40.792194,-73.92455,Manhattan
+The St. Regis,No data,40.7613979,-73.9746128,Manhattan
+TATABROOKFIELD #2,No data,40.755077,-73.955605,Manhattan
+TATABROOKFIELD GATEWAY #1,No data,40.755024,-73.955605,Manhattan
+TATABROOKFIELD #8,No data,40.75533,-73.95569,Manhattan
+TATABROOKFIELD #7,No data,40.755314,-73.955605,Manhattan
+TATABROOKFIELD #6,No data,40.75516,-73.955605,Manhattan
+TATABROOKFIELD #5,No data,40.755142,-73.9556,Manhattan
+TATABROOKFIELD #4,No data,40.755108,-73.955605,Manhattan
+35 SUTTON 1 SUTTON PL 2,No data,40.75824,-73.95967,Manhattan
+PANYNJ LGA E GARAGE W1,No data,40.770752,-73.866327,Queens
+NYC FLEET DPR_ICAHN_3_L3,No data,40.7923,-73.92468,Manhattan
+NYC FLEET DPR_ICAHN_2_L3,No data,40.79237,-73.924644,Manhattan
+CHHA2 Garages,PARKING_GARAGE,40.77599,-73.95044,Manhattan
+VISN 2/NYHHCS/MANHATTAN,FED_GOV,40.737182,-73.976713,Manhattan
+ANSONIA,FED_GOV,40.77493,-73.980969,Manhattan
+MANHATTAN VMF,FED_GOV,40.750397,-74.006467,Manhattan
+Beekman Garage,No data,40.710636,-74.006195,Brooklyn
+Eastway Parking,No data,40.76211452,-73.98525398,Manhattan
+Beltmont Parking,No data,40.7789084,-73.957318,Manhattan
+Beekman Parking,No data,40.7547868,-73.965044,Manhattan
+Travelers Parking,No data,40.735094,-74.00187,Manhattan
+Gotham Parking,No data,40.763212,-73.99629,Manhattan
+New Systems,No data,40.7632,-73.960185,Manhattan
+Minetta Garage,No data,40.73137973,-74.0007049,Manhattan
+Strathmore,No data,40.775203,-73.950295,Manhattan
+NYC Parking 200,No data,40.764578,-73.964757,Manhattan
+Duford Studios,No data,40.778527,-73.9572042,Manhattan
+Laureate Garage,No data,40.7820682,-73.9803779,Manhattan
+Tunnel Garage,No data,40.745282,-73.975719,Manhattan
+Icon Parking - Hudson,No data,40.728704,-74.00765,Manhattan
+GMC Parking Garage - 200 Central,No data,40.766719,-73.979533,Manhattan
+Discover 97 Parking LLC,No data,40.793416,-73.967719,Manhattan
+iPark - 67th Street,No data,40.769134,-73.968707,Manhattan
+GMC Vic Mar Parking,No data,40.779829,-73.960581,Manhattan
+4 W 93rd St,No data,40.789958,-73.966488,Manhattan
+iPark - Enterprise Parking,No data,40.748359,-73.972213,Manhattan
+170 E End Ave,No data,40.775792,-73.944015,Manhattan
+498 E 67th St,No data,40.763723,-73.956354,Manhattan
+101 E 78th St,No data,40.774878,-73.960671,Manhattan
+iPark - 59 Allen Street Garage,No data,40.717195,-73.991658,Brooklyn
+Peninsula New York,No data,40.7616221,-73.9754656,Manhattan
+Gramercy Plaza  - Parking Garage,No data,40.7362174,-73.98666508,Manhattan
+277 Park Avenue,PARKING_GARAGE,40.7548972601546,-73.9741069536151,Manhattan
+West 90th Garage Corp,PARKING_GARAGE,40.7893808473284,-73.9708225218492,Manhattan
+115 Fort Washington Ave,No data,40.839756,-73.943345,Bronx
+Highrise Parking,No data,40.777905,-73.982299,Manhattan
+NYU NYU # 2,No data,40.728283,-73.997251,Manhattan
+NYU NYU # 1,No data,40.72808,-73.99724,Manhattan
+Central Parking - 109 E 58th Street,No data,40.762199,-73.969557,Manhattan
+Central Parking - 350 E 30th Street,No data,40.741065,-73.975788,Manhattan
+LIN-DAN RICK,No data,40.736148,-73.980154,Manhattan
+LIN-DAN MORTY,No data,40.736161,-73.980267,Manhattan
+1 WATERLINE STATION#8,No data,40.772871,-73.992514,Manhattan
+1 WATERLINE STATION#3,No data,40.773005,-73.992868,Manhattan
+1 WATERLINE STATION#2,No data,40.772952,-73.992622,Manhattan
+1 WATERLINE STATION#1,No data,40.772896,-73.992536,Manhattan
+1 WATERLINE STATION#5,No data,40.772904,-73.992514,Manhattan
+1 WATERLINE STATION#4,No data,40.77292,-73.992546,Manhattan
+1 WATERLINE STATION#6,No data,40.772912,-73.992589,Manhattan
+WATERLINE 2W STATION 2,No data,40.7733,-73.991532,Manhattan
+Icon Mercury Parking,No data,40.76324463,-73.98864745,Manhattan
+SP+ - 200 Chambers Street Garage,No data,40.7163,-74.01258,Brooklyn
+Eventi Hotel,No data,40.758681,-73.98135,Manhattan
+125 W 76th Street,No data,40.7803975,-73.9777289,Manhattan
+COLUMBIA 560 RSD - 2,No data,40.816698,-73.960577,Manhattan
+Central Parking - 115 E 87th St,No data,40.780678,-73.956269,Manhattan
+Bridge Towers Location 1,No data,40.848202,-73.935857,Bronx
+Energy Plus Site 8,No data,40.781104,-73.984478,Manhattan
+Prestige Parking Corp,No data,40.7565187377,-73.9610743999,Manhattan
+First Avenue Parking,No data,40.745096,-73.971921,Manhattan
+MPG Parking,No data,40.758967,-73.995189,Manhattan
+Rapid Park - 204 W 101 st,PARKING_GARAGE,40.79743,-73.9687,Manhattan
+Rapid Park - 205 W 101 st,PARKING_GARAGE,40.79766,-73.96838,Manhattan
+411 West 55th St,PAY_GARAGE,40.76709,-73.98733,Manhattan
+301 E. 79th St.,PAY_GARAGE,40.76939,-73.96546,Manhattan
+550 W. 45th St.,PAY_GARAGE,40.7624,-73.99635,Manhattan
+435 E. 55th St.,PAY_GARAGE,40.75657,-73.96226,Manhattan
+420 E. 53rd St.,PAY_GARAGE,40.75527,-73.96386,Manhattan
+449 East 49th Street,PAY_GARAGE,40.75267,-73.96482,Manhattan
+337 E 64th St.,PAY_GARAGE,40.76327,-73.96024,Manhattan
+4 W 21st St.,PAY_GARAGE,40.74057,-73.99147,Manhattan
+210 W 76th St.,PAY_GARAGE,40.78126,-73.98044,Manhattan
+142 E 31st St.,PAY_GARAGE,40.74415,-73.98046,Manhattan
+44 W 62nd St.,PAY_GARAGE,40.7708,-73.98323,Manhattan
+333 E 75th St.,PAY_GARAGE,40.7702,-73.95525,Manhattan
+225 W 49th St,PAY_GARAGE,40.76154,-73.98518,Manhattan
+11 East 86th Street,PAY_GARAGE,40.78147,-73.95986,Manhattan
+110 East End Ave,PAY_GARAGE,40.77447,-73.94599,Manhattan
+200 East End Ave,PAY_GARAGE,40.77729,-73.94355,Manhattan
+55 East End Ave,PAY_GARAGE,40.772,-73.94639,Manhattan
+305 East 80th Street,PAY_GARAGE,40.77397,-73.9539,Manhattan
+231 E 94th Street,PAY_GARAGE,40.78351,-73.94888,Manhattan
+203 E 71st St.,PAY_GARAGE,40.76894,-73.96047,Manhattan
+181 E 73rd Street,PAY_GARAGE,40.77082,-73.96068,Manhattan
+191 East 71st Street,PAY_GARAGE,40.76942,-73.76942,Queens
+DOCK STATION 9,No data,40.761082,-73.968188,Manhattan
+DOCK STATION 10,No data,40.757839,-73.984391,Manhattan
+Lincoln Square Garage,No data,40.776152,-73.98282,Manhattan
+320 Mason Ave,No data,40.5849843769658,-74.0880435921124,Staten Island
+Delancey & Essex Municipal Parking Garage,PARKING_GARAGE,40.7193187,-73.9881965,Brooklyn
