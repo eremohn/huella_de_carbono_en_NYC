@@ -46,3 +46,12 @@
 <p align="center">
 <img src="Imagenes_2/automatizacion.gif"  >
 </p>
+
+
+### web scraping
+---
+
+<p align="center">
+<img src="Imagenes_2/web_scraping.gif"  >
+</p>
+
