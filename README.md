@@ -53,7 +53,7 @@ El proyecto se llevo a cavo en tres etapas
 ---
 - completar
 
-## Integrantes
+## Integrantes 
 ---
  Data Engineer / Data Science 
  - nombre:correo | Linkedin | GitHub. 
