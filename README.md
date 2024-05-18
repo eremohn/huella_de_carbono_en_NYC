@@ -20,6 +20,8 @@ Para evaluar el proceso de toma de decisión, desde el año 2022 en adelante.
 
 Para una consulta de los datos en tiempo real, se realizó un sistema de recomendación.
 
+https://app.powerbi.com/links/m-9rugjzep?ctid=f2e326b5-3f1d-4510-a408-004bf3a3f56b&pbi_source=linkShare
+
 - [Análisis de datos]()
 
 - [Modelo de Machine Learning]()
