@@ -47,6 +47,15 @@ El proyecto se llevo a cavo en tres etapas
 - [Fuel consumption raitings](https://open.canada.ca/data/en/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64#wb-auto-6)
 - [State carbon dioxide emissions from fossil fuels tables: New York](https://www.eia.gov/environment/emissions/state/excel/states/new%20york.xlsx)
 
+## Tecnologías empleadas
+---
+
+<p align="center">
+<img src="Imagenes/tecnologias.png"   >
+</p>
+
+
+
 ## Presentación
 [Demo](https://view.genially.com/6642693ba5b3240014a4742d/presentation-hacia-una-movilidad-sostenible)
 
