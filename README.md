@@ -55,6 +55,11 @@ El proyecto se llevo a cavo en tres etapas
 </p>
 
 
+<p align="center">
+<img src="Imagenes/tecnologias.png"   >
+</p>
+
+
 
 ## Presentación
 [Demo](https://view.genially.com/6642693ba5b3240014a4742d/presentation-hacia-una-movilidad-sostenible)
