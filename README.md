@@ -51,7 +51,7 @@ El proyecto se llevo a cavo en tres etapas
 ---
 
 <p align="center">
-<img src="Imagenes/tecnologis.png"   >
+<img src="Imagenes/tecnologias.png"   >
 </p>
 
 
