@@ -16,11 +16,10 @@ Nuestro equipo ha sido contratado por una empresa de servicios de transporte de 
 ---
 Para evaluar el proceso de toma de decisión, desde el año 2022 en adelante.
 
-- [Visualización de datos]()
+- [Visualización de datos](https://us-east-1.quicksight.aws.amazon.com/sn/embed/share/accounts/590184015460/dashboards/5d2ae1b2-ee2a-4884-be64-9972bf6b1cea?directory_alias=henry-2024)
+
 
 Para una consulta de los datos en tiempo real, se realizó un sistema de recomendación.
-
-[informe](https://app.powerbi.com/reportEmbed?reportId=932f8942-01f8-47a8-8431-f89cfff45e57&autoAuth=true&ctid=f2e326b5-3f1d-4510-a408-004bf3a3f56b)
 
 
 - [Análisis de datos]()
@@ -47,6 +46,15 @@ El proyecto se llevo a cavo en tres etapas
 - [Que es un Borough?](https://en.wikipedia.org/wiki/Boroughs_of_New_York_City)
 - [Fuel consumption raitings](https://open.canada.ca/data/en/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64#wb-auto-6)
 - [State carbon dioxide emissions from fossil fuels tables: New York](https://www.eia.gov/environment/emissions/state/excel/states/new%20york.xlsx)
+
+## Tecnologías empleadas
+---
+
+<p align="center">
+<img src="Imagenes/tecnologias.png"   >
+</p>
+
+
 
 ## Presentación
 [Demo](https://view.genially.com/6642693ba5b3240014a4742d/presentation-hacia-una-movilidad-sostenible)

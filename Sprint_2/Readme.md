@@ -10,6 +10,11 @@
 </p>
 
 
+<p align="center">
+<img src="Imagenes_2/validacion_de_datos.jpg"  >
+</p>
+
+
 ### Infraestructura de datos
 ---
 
