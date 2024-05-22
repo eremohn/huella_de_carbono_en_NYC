@@ -19,6 +19,15 @@ Para evaluar el proceso de toma de decisión, desde el año 2022 en adelante.
 - [Visualización de datos](https://us-east-1.quicksight.aws.amazon.com/sn/accounts/381492307502/dashboards/b18224c0-471c-4d94-800e-4aee5eac30dd?directory_alias=henry2-2024)
 
 
+
+    <iframe
+        width="960"
+        height="720"
+        src="https://us-east-1.quicksight.aws.amazon.com/sn/embed/share/accounts/381492307502/dashboards/b18224c0-471c-4d94-800e-4aee5eac30dd?directory_alias=henry2-2024">
+    </iframe>
+
+
+
 Para una consulta de los datos en tiempo real, se realizó un sistema de recomendación.
 
 
