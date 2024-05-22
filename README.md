@@ -16,7 +16,7 @@ Nuestro equipo ha sido contratado por una empresa de servicios de transporte de 
 ---
 Para evaluar el proceso de toma de decisión, desde el año 2022 en adelante.
 
-- [Visualización de datos](https://us-east-1.quicksight.aws.amazon.com/sn/embed/share/accounts/590184015460/dashboards/5d2ae1b2-ee2a-4884-be64-9972bf6b1cea?directory_alias=henry-2024)
+- [Visualización de datos](https://us-east-1.quicksight.aws.amazon.com/sn/accounts/381492307502/dashboards/b18224c0-471c-4d94-800e-4aee5eac30dd?directory_alias=henry2-2024)
 
 
 Para una consulta de los datos en tiempo real, se realizó un sistema de recomendación.
