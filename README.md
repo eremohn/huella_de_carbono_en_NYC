@@ -74,7 +74,7 @@ El proyecto se llevo a cavo en tres etapas
  - nombre:correo | Linkedin | GitHub.
 
  Data Analyst / Data Science
- - nombre:correo | Linkedin | GitHub.
+ - Felipe Varela: varela.miranda.f@gmail.com | [GitHub.](https://github.com/eremohn)
  - nombre:correo | Linkedin | GitHub.
 
  Academia Henry:
