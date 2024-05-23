@@ -35,56 +35,75 @@ Una vez procesado nuestros datos, procedemos a analizarlos con la finalidad de p
 
 ### Evolución del costo en función del tiempo
 
-grafica costo en funcion del tiempo
+<p align="center">
+<img src="../Sprint_3/Imagenes_3/evolucion_del_costo_en_funcion_del_tiempo.png"  >
+</p>
 
 De la presente grafica podemos destacar que, aunque existe una variabilidad el el valor del costo de transporte, esto a lo largo del periodo estudiado se mantiene cuasi constante, esto nos dice que no vemos tendencia alcista al costo del transporte o tendencia a la baja, señalando una gran confiabilidad a la hora de predecir ganancias al largo plazo.
 
 ### Viajes en función del tiempo
 
-grafica Viajes en función del tiempo
+<p align="center">
+<img src="../Sprint_3/Imagenes_3/viajes_en_funcion_del_tiempo.png"  >
+</p>
 
 La cantidad de viajes que se realizan, es un factor importante  a la hora de poder buscar alguna medición que nos permita entender como crece o se expande el negocio del transporte urbano. De lo obtenido por los datos podemos apreciar que el negocio del transporte de pasajeros aunque es un negocio de gran volumen se a mantenido sin cambios significativos en el periodo de dos años, mostrándonos una señal de poco crecimiento, esto mas la poca variabilidad del costo del transporte, son indicios de una inversión que no en primera instancia no vera retribuciones fructíferas en el corto plazo.
 
 ### Cantidad de viajes por barrio
 
-grafica Cantidad de viajes por barrio
+<p align="center">
+<img src="../Sprint_3/Imagenes_3/cantidad_de_viajes_por_barrio_de_destino.png"  >
+</p>
 
 El siguiente grafico nos sirve para poder entender en mayor profundidad de los cinco barrios mas destacados de la ciudad de New York, cual es el mas congestionado, esto es solo para poder entender y ver si se puede empezar a proyectar un negocio mas local que brinde servicios en una primera instancia en áreas mas reducidas con el fin de poder enfocarnos en aquellas zonas mas demandadas.
 
 
 ### Distancias en función de tiempo
 
-grafica Distancias en función de tiempo
+<p align="center">
+<img src="../Sprint_3/Imagenes_3/Distancias_en_función_de_tiempo.png"  >
+</p>
 
 Una vez mas podemos destacar poca variación en el tipo de negocio del transporte urbano, donde las distancias recorridas a los largo de los años se mantiene prácticamente constante, exceptuando pequeños periodos de tiempos donde se muestra una clase de fluctuación, pero en general estos datos nos sirven para reafirma que es un negocio donde no se correrán riesgos a corto plazo.
 
 ### Promedio mensual de presencia de motores
 
-grafica Promedio mensual de presencia de motores
+<p align="center">
+<img src="../Sprint_3/Imagenes_3/Promedio_mensual_de_precencia_de_motores.png"  >
+</p>
+
 
 El gráfico de líneas proporciona una visualización clara y concisa del comportamiento de los ruidos emitidos por vehículos en la ciudad de Nueva York a lo largo del tiempo. Observamos que la frecuencia promedio de ocurrencia de los diferentes tipos de motores varía mensualmente, lo que sugiere fluctuaciones en la actividad vehicular y posiblemente en los patrones de tráfico en la ciudad. Este análisis nos ayuda a comprender mejor la dinámica del ruido urbano y puede ser útil para identificar tendencias a lo largo del tiempo y desarrollar estrategias efectivas para la gestión del ruido en áreas urbanas.
 
 ### Presencia de contaminante por año
 
-grafica Presencia de contaminante por año
+<p align="center">
+<img src="../Sprint_3/Imagenes_3/Presencia_de_contaminante_por_año.png"  >
+</p>
 
 Aunque se observa una tendencia a la disminución de los niveles de contaminantes, con excepción de ozono, estos aún mantienen valores preocupantes para el medio ambiente. Es imperativo buscar soluciones para abordar esta crisis medioambiental. La inversión en vehículos eléctricos emerge como una innovadora y prometedora alternativa para mitigar este problema, ofreciendo una oportunidad tangible para reducir nuestra huella ambiental y avanzar hacia un futuro más sostenible.
 
 ### Emisiones de CO2 en New York
 
-grafica Emisiones de CO2 en New York
+<p align="center">
+<img src="../Sprint_3/Imagenes_3/Emisiones_CO2_NYC.png"  >
+</p>
 
 De la grafica podemos entender el comportamiento de  la emisión de CO2 en la ciudad de New York, de la cual se extrae que año a año por motivos que exceden a este estudio se puede notar un descenso en la producción de este gas de invernadero, aunque los valores van en un decrecimiento no dejan de estar en niveles muy altos dado el contexto actual del calentamiento global y los problemas que derivan de este.
 
 ### Variación del clima a lo largo del tiempo
 
-grafica Variación del clima a lo largo del tiempo
+<p align="center">
+<img src="../Sprint_3/Imagenes_3/temperatura_ambiente_en_el_tiempo.png"  >
+</p>
 
 Otro análisis a considerar es la temperatura ambiente, la cual de diversas fuentes, como https://www.renault.es/blog/trucos-consejos/calor-coche-electrico.html, aclaran que el rendimiento de la autonomía de los vehículos eléctricos se ve afectada por la temperatura del exterior, que análisis desarrollado por la compañía de autos RENAULT podemos ver que las temperaturas mínimas del invierno, como las máximas del verano son temperaturas no favorables para la vida optima del la batería, estas condiciones podrían ocasionar una baja del rendimiento y en consecuencia menos disponibilidad del vehículo para un día de trabajo.
 
 ### Ubicación de cargadores para autos eléctricos
 
-grafica ubicación de cargadores para autos eléctricos
+<p align="center">
+<img src="../Sprint_3/Imagenes_3/ubicación_de_cargadores_para_autos_eléctricos.png"  >
+</p>
 
 Por ultimo es necesario a la hora de evaluar la adquisición de una flota de vehículos eléctricos la disponibilidad de puestos de carga de estos, es esencial poder invertir en un negocio en el cual estén dadas todas las condiciones para poder brindar un buen servicio. Es por esta razón que la escasa distribución de los cargadores eléctricos en toda la ciudad de New York presenta un problema a la hora de pensar en la logística de viajes largos. Dada esta situación se podría primero plantear en una inversión local solo asignada para el barrio de Manhattan, pensando en un una posible expansión a medida que mas cargadores eléctricos sean distribuido a otras localidades, asegurando la continuidad del servicio.
 
@@ -96,18 +115,24 @@ Un Indicador Clave de Rendimiento (KPI), es una métrica cuantitativa utilizada 
 ### KPI 1: Incremento de Viajes en Taxis
 El número de viajes en taxis realizados aumenta en un 5% respecto al mes anterior, reflejando un crecimiento en la demanda de transporte urbano.
 
-imagen KPI 1
+<p align="center">
+<img src="../Sprint_3/Imagenes_3/KPI1.png"  >
+</p>
 
 ### KPI 2: Variación de CO2 en Estados Unidos 
 Se observa un incremento del 5% en los niveles de dióxido de carbono (CO2) en la ciudad de New York con respecto al año anterior, lo que sugiere un posible impacto en la calidad del aire y destaca la necesidad de soluciones más sostenibles.
 
-imagen KPI 2
+<p align="center">
+<img src="../Sprint_3/Imagenes_3/KPI2.png"  >
+</p>
 
 ### KPI 3: Adopción de Taxis Verdes
 La proporción de taxis eléctricos o 'verdes' en la flota de vehículos de transporte urbano cumple con el 5% de incremento establecido en un periodo de 1 mes, demostrando una transición hacia opciones más ecológicas y sostenibles en el transporte de pasajeros.
 
 
-imagen KPI 3
+<p align="center">
+<img src="../Sprint_3/Imagenes_3/KPI3.png"  >
+</p>
 
 
 ## Conclusiones
