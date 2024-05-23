@@ -4,7 +4,7 @@
 El objetivo es entrenar un modelo para realizar predicciones sobre las medidas principales de los viajes en taxis amarillos en los diferentes barrios de NY. A continuación se muestra la lectura y procesamiento del archivo de taxis amarillos.
 
 <p align="center">
-<img src="../Informe/Imagenes/1.png"  >
+<img src="../../Imagenes/1.png"  >
 </p>
 
 
