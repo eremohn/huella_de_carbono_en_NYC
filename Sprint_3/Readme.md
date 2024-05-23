@@ -15,6 +15,10 @@
 ### KPIs
 ---
 
+<p align="center">
+<img src="Imagenes_3/KPIs.gif"  >
+</p>
+
 
 ### Análisis Exploratorio de Datos
 ---
