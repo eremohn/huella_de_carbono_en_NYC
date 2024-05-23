@@ -7,7 +7,7 @@ El objetivo es entrenar un modelo para realizar predicciones sobre las medidas p
 <img src="Informe/Imagenes/1.png"  >
 </p>
 
-Informe/Imagenes/1.png
+
 
 NOTA: De la misma forma se importaron
 y procesaron los registros de taxis verdes
