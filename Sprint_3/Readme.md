@@ -46,10 +46,7 @@ Presentamos y analizamos algunos de los hallazgos de nuestro trabajo. Los result
 
 ### Modelo machine learning
 ---
-
-
-### Modelo ML en producción
----
+[modelo](../Informe/Predicciones_Taxis.md)
 
 ### Funcionalidad 
 ---
