@@ -46,3 +46,10 @@ Presentamos y analizamos algunos de los hallazgos de nuestro trabajo. Los result
 
 ### Modelo ML en producción
 ---
+
+### Funcionalidad 
+---
+
+<p align="center">
+<img src="Imagenes_3/aplicacion.gif"  >
+</p>
