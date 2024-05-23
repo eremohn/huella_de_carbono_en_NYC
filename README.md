@@ -66,8 +66,10 @@ El proyecto se llevo a cavo en tres etapas
 
 ## Integrantes 
 ---
+ Cloud Architect
+- Javier Hernandez: 7.matute@gmail.com | www.linkedin.com/in/javier-hernandez-a098b726b | remolino777.
  Data Engineer / Data Science 
- - nombre:correo | Linkedin | GitHub. 
+ - Javier Hernandez: 7.matute@gmail.com | www.linkedin.com/in/javier-hernandez-a098b726b | remolino777. 
  - nombre:correo | Linkedin | GitHub.
  - nombre:correo | Linkedin | GitHub.
 
