@@ -64,7 +64,7 @@ El proyecto se llevo a cavo en tres etapas
 
 ## Insights
 ---
-- completar
+[Informe](https://github.com/eremohn/huella_de_carbono_en_NYC/tree/main/Informe)  
 
 ## Integrantes 
 ---
