@@ -82,6 +82,6 @@ Data Engineer / Data Science
  - nombre:correo | Linkedin | GitHub.
 
  Academia Henry:
- - Henry Mentor:  | Linkedin | GitHub.
+ - Henry Mentor:  Lautaro Paniagua | Linkedin | GitHub.
  - Product Owner: | Linkedin | GitHub.
  
