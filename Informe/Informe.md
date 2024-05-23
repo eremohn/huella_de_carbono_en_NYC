@@ -19,7 +19,14 @@ Para realizar el análisis de los datos relacionados con el transporte de pasaje
 
 ### 3. Ciclo de vida del dato
 
-imagenes ciclo de vida
+<p align="center">
+<img src="Sprint_2/Imagenes_2/Ciclo_del_dato.jpg"  >
+</p>
+
+<p align="center">
+<img src="Sprint_2/Imagenes_2/Ciclo_del_dato_BigData.jpg"  >
+</p>
+
 
 ## Análisis Exploratorio de Datos
 ---
