@@ -52,9 +52,7 @@ El proyecto se llevo a cavo en tres etapas
 ## Tecnologías empleadas
 ---
 
-<p align="center">
-<img src="Imagenes/tecnologias.png"   >
-</p>
+
 
 
 
