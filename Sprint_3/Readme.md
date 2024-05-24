@@ -46,7 +46,7 @@ Presentamos y analizamos algunos de los hallazgos de nuestro trabajo. Los result
 
 ### Modelo machine learning
 ---
-[Informe modelo Machine Learning](../Informe/Predicciones_Taxis.md)
+### [Informe modelo Machine Learning](../Informe/Predicciones_Taxis.md)
 
 <p align="center">
 <img src="Imagenes_3/ML.gif"  >
