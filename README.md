@@ -64,13 +64,15 @@ El proyecto se llevo a cavo en tres etapas
 
 ## Insights
 ---
-- completar
+[Informe](https://github.com/eremohn/huella_de_carbono_en_NYC/tree/main/Informe)  
 
 ## Integrantes 
 ---
- Cloud Architect
+
+Cloud Architect
 - Javier Hernandez: 7.matute@gmail.com | www.linkedin.com/in/javier-hernandez-a098b726b | remolino777.
- Data Engineer / Data Science 
+
+Data Engineer / Data Science 
  - Javier Hernandez: 7.matute@gmail.com | www.linkedin.com/in/javier-hernandez-a098b726b | remolino777. 
  - nombre:correo | Linkedin | GitHub.
  - nombre:correo | Linkedin | GitHub.
@@ -80,6 +82,6 @@ El proyecto se llevo a cavo en tres etapas
  - nombre:correo | Linkedin | GitHub.
 
  Academia Henry:
- - Henry Mentor:  | Linkedin | GitHub.
+ - Henry Mentor:  Lautaro Paniagua | Linkedin | GitHub.
  - Product Owner: | Linkedin | GitHub.
  

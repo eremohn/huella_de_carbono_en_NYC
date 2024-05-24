@@ -15,6 +15,10 @@
 ### KPIs
 ---
 
+<p align="center">
+<img src="Imagenes_3/KPIs.gif"  >
+</p>
+
 
 ### Análisis Exploratorio de Datos
 ---
@@ -42,7 +46,16 @@ Presentamos y analizamos algunos de los hallazgos de nuestro trabajo. Los result
 
 ### Modelo machine learning
 ---
+[modelo](../Informe/Predicciones_Taxis.md)
+
+<p align="center">
+<img src="Imagenes_3/ML.gif"  >
+</p>
 
 
-### Modelo ML en producción
+### Funcionalidad 
 ---
+
+<p align="center">
+<img src="Imagenes_3/aplicacion.gif"  >
+</p>
