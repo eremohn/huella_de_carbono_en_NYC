@@ -53,6 +53,17 @@ Presentamos y analizamos algunos de los hallazgos de nuestro trabajo. Los result
 </p>
 
 
+### Modelo machine learning en producción
+---
+[modelo](../Informe/Predicciones_Taxis.md)
+
+<p align="center">
+<img src="Imagenes_3/automatizacion_ML.gif"  >
+</p>
+
+
+
+
 ### Funcionalidad 
 ---
 
