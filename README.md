@@ -74,7 +74,7 @@ Cloud Architect
 
 Data Engineer / Data Science 
  - Javier Hernandez: 7.matute@gmail.com | www.linkedin.com/in/javier-hernandez-a098b726b | remolino777. 
- - nombre:correo | Linkedin | GitHub.
+ - Daniel Bossio Pérez: bossiodanieljc@gmail.com | [Linkedin](https://www.linkedin.com/in/daniel-bossio-b78b05278/) | [GitHub](https://github.com/DanielBossio).
  - Lucas German Kalchichen :lucas.kalchichen@gmail.com  | https://www.linkedin.com/in/lucas-german-k-1b63b1245/ | lucaskalchichen
 
  Data Analyst / Data Science
