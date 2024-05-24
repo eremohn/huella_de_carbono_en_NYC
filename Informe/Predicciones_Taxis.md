@@ -27,10 +27,7 @@ y registros que no corresponden.
 ## Creación de tabla pivote
 --- 
 
-Para los datos de los taxis amarillos (y verdes), se transformarán los datos usando una tabla pivote, donde el índice
-Serán las fechas, y las columnas serán combinaciones de las medidas a predecir (cantidad de registros, suma y promedio
-Del costo total y suma de la distancia recorrida), utilizando un fill_value de 0 y agregando los registros por suma, excepto
-para los promedios que se calcularán en base a las sumas de total y las cantidades de registros.
+Para los datos de los taxis amarillos (y verdes), se transformarán los datos usando una tabla pivote, donde el índice serán las fechas, y las columnas serán combinaciones de las medidas a predecir (cantidad de registros, suma y promedio del costo total y suma de la distancia recorrida), utilizando un fill_value de 0 y agregando los registros por suma, excepto para los promedios que se calcularán en base a las sumas de total y las cantidades de registros.
 
 <p align="center">
 <img src="../Informe/Imagenes/4.png"  >
@@ -53,9 +50,7 @@ Debido a la cantidad de columnas, se planteó trabajar cada medida (cantidad de 
 ## Diagramas de autocorrelación y autocorrelación parcial
 ---
 
-Los diagramas ACF y PACF son utilizados para analizar la cantidad de lags adecuada para el entrenamiento de
-la serie temporal. Los lags son los valores anteriores de la variable a considerar. En el caso de las predicciones
-multiserie, los lags aplican para cada una de las variables como posible variable de entrada.
+Los diagramas ACF y PACF son utilizados para analizar la cantidad de lags adecuada para el entrenamiento de la serie temporal. Los lags son los valores anteriores de la variable a considerar, y el objetivo de estos diagramas es medir su influencia sobre el valor en el momento dado. En el caso de las predicciones multiserie, los lags de todas las variables aplican para cada una de las variables como posible variable de entrada.
 
 
 <p align="center">
@@ -108,8 +103,7 @@ Finalmente, se comprueba que el índice esté en formato de tiempo.
 <img src="../Informe/Imagenes/15.png"  >
 </p>
 
-El modelo utilizado será un ForecasterAutoregMultiSeries, de la librería skforecast, que ajustará un
-RandomForestRegressor a los datos temporales. La ventaja de este modelo es que permite automatizar la configuración de los lags necesarios para que el modelo aprenda la tendencia de los datos temporales, así como realizar una búsqueda en grid de las mejores combinaciones hiperparámetros y cantidad de lags, aprovechando la versatilidad y robustez del modelo de bosque aleatorio en este caso. Además, un forecaster multiserie permite entrenar el modelo para aprender distintas series temporales y sus posibles relaciones, por lo que en este caso se separarán las distintas medidas, entrenando un predictor multiserie para cada medida en los cinco barrios.
+El modelo utilizado será un ForecasterAutoregMultiSeries, de la librería skforecast, que ajustará un RandomForestRegressor a los datos temporales. La ventaja de este modelo es que permite automatizar la configuración de los lags necesarios para que el modelo aprenda la tendencia de los datos temporales, así como realizar una búsqueda en grid de las mejores combinaciones de hiperparámetros y cantidad de lags, aprovechando la versatilidad y robustez del modelo de bosque aleatorio en este caso. Además, un forecaster multiserie permite entrenar el modelo para aprender distintas series temporales y sus posibles relaciones. En este caso se separarán las distintas medidas, entrenando un predictor multiserie para cada medida en los cinco barrios.
 
 <p align="center">
 <img src="../Informe/Imagenes/16.png"  >
@@ -163,6 +157,7 @@ Con estos resultados se entrena el modelo resultante, y se le hacen pruebas con 
 <img src="../Informe/Imagenes/25.png"  >
 </p>
 
+# Predicciones de CO2 en la ciudad de Nueva York
 El objetivo es entrenar un modelo para predecir los niveles de CO2 anuales en Nueva York. Debido a la relativamente poca cantidad de registros (datos anuales entre 1970 y 2021), se probarán modelos sencillos (Ridge, Árbol) aplicados a forecasting con skforecast. A continuación se muestra la información general.
 
 
@@ -193,9 +188,11 @@ El objetivo es entrenar un modelo para predecir los niveles de CO2 anuales en Nu
 <p align="center">
 <img src="../Informe/Imagenes/31.png"  >
 </p>
+<p>Las gráficas ACF y PACF sugieren que los mejores lags en su mayoría son de 9 o menos, 14 y 20. Considerando que 20 lags podrían sobreajustar el modelo, solo se explorará hasta 14.</p>
 
 ## Entrenamiento de los modelos con grid
 ---
+<p>Para el modelo, se utilizará skforecast para evaluar predictores basados en la regresión Ridge y en un árbol de decisión.</p>
 
 ### Para Ridge
 
@@ -227,7 +224,7 @@ Para la regresión Ridge, la mejor combinación de parámetros fue 9 lags, Alpha
 <img src="../Informe/Imagenes/37.png"  >
 </p>
 
-Para el árbol de regresion, la mejor combinación de parámetros fue 2 lags, profundidad máxima de 10, mínimo de muestras por hoja de 1 y mínimo de muestras para split de 3.
+Para el árbol de regresion, la mejor combinación de parámetros fue 2 lags, profundidad máxima de 10, mínimo de muestras por hoja de 1 y mínimo de muestras para split de 3. A continuación se muestran las métricas MSE, MAE y Theil's U para los modelos:
 
 ### Ridge
 
