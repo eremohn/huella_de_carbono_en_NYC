@@ -70,3 +70,9 @@ Se utilizó skforecast para evaluar predictores basados en la regresión Ridge y
   
 ![image](https://github.com/eremohn/huella_de_carbono_en_NYC/assets/51429745/715b8f2a-33f1-4dea-950a-0dccd0523b58)
 ![image](https://github.com/eremohn/huella_de_carbono_en_NYC/assets/51429745/92395c5a-bdb2-4b3d-a432-8fa28eef9618)
+
+# Automatización
+Se instanció una imagen de Docker con el código a ejecutar y las librerías necesarias en EC2. El código es el presentado en los notebooks, con algunos cambios necesarios para la automatización del proceso y la conexión a S3, donde se guardan los archivos a usar. En el [Dockerfile](Dockerfile) se configuran los comandos CRON para ejecutar los archivos los días 7 de cada mes, con ventanas de 3 horas, y en el archivo [requirements](requirements.txt) se especifican las librerías a ejecutar.
+
+![image](https://github.com/eremohn/huella_de_carbono_en_NYC/assets/51429745/160835e1-c79c-4ea3-9865-1ec64ec75b26)
+![image](https://github.com/eremohn/huella_de_carbono_en_NYC/assets/51429745/27095f92-bcec-4a2d-b796-e7381216ed45)
