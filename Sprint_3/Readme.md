@@ -48,6 +48,11 @@ Presentamos y analizamos algunos de los hallazgos de nuestro trabajo. Los result
 ---
 [modelo](../Informe/Predicciones_Taxis.md)
 
+<p align="center">
+<img src="Imagenes_3/ML.gif"  >
+</p>
+
+
 ### Funcionalidad 
 ---
 
