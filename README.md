@@ -75,11 +75,11 @@ Cloud Architect
 Data Engineer / Data Science 
  - Javier Hernandez: 7.matute@gmail.com | www.linkedin.com/in/javier-hernandez-a098b726b | remolino777. 
  - nombre:correo | Linkedin | GitHub.
- - nombre:correo | Linkedin | GitHub.
+ - Lucas German Kalchichen :lucas.kalchichen@gmail.com  | https://www.linkedin.com/in/lucas-german-k-1b63b1245/ | lucaskalchichen
 
  Data Analyst / Data Science
  - Felipe Varela: varela.miranda.f@gmail.com | [GitHub.](https://github.com/eremohn)
- - nombre:correo | Linkedin | GitHub.
+ - Lucas German Kalchichen:lucas.kalchichen@gmail.com  | https://www.linkedin.com/in/lucas-german-k-1b63b1245/ | lucaskalchichen
 
  Academia Henry:
  - Henry Mentor:  Lautaro Paniagua | Linkedin | GitHub.
