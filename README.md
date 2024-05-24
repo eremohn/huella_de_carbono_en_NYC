@@ -83,5 +83,5 @@ Data Engineer / Data Science
 
  Academia Henry:
  - Henry Mentor:  Lautaro Paniagua | Linkedin | GitHub.
- - Product Owner: | Linkedin | GitHub.
+ - Product Owner: Angela Aguirre| Linkedin | GitHub.
  
